@@ -22,7 +22,7 @@ const menu = {
                         },
                         {
                             en_name: "BETTER THEN STUDENT",
-                            en_description: "( BEGINNER 50%50 GURU )",
+                            en_description: "( THE STUDENT 50%50 PRO )",
                             ru_name: "НЕМНОГО ШАРЮ",
                             ru_description: "( НОВИЧОК 50%50 ПРОФИ )",
                             cost: 150
