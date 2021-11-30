@@ -24,7 +24,7 @@ window.onload = function() {
 
 function ScrollToMenu() {
     let language = document.getElementById("language-section");
-    language.scrollIntoView();
+    language.scrollIntoView({behavior: 'smooth'});
 }
 
 if (candidate) {
