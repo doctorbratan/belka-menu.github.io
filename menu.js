@@ -232,6 +232,11 @@ const menu = {
                             ru_name: "ШОКОЛАД",
                             cost: 35
                         },
+                        {
+                            en_name: "BARS",
+                            ru_name: "БАТОНЧИК",
+                            cost: 12
+                        }
                     ]
                 },
                 {
