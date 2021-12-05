@@ -33,6 +33,10 @@ body {
     position: fixed;
     bottom: 5%;
     right: 5%;
+    -o-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
 }
 
 main {
@@ -47,10 +51,18 @@ main {
     background-repeat: no-repeat;
     background-position-x: center;
     background-position-y: center;
+    -o-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
 }
 
 #animation {
     width: 35%;
+    -o-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
 }
 
 .lang_font {
