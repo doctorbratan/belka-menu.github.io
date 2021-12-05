@@ -32,18 +32,18 @@ var EPPZScrollTo =
      */
     scrollVerticalTickToPosition: function(currentPosition, targetPosition)
     {
-        var filter = 0.2;
-        var fps = 25;
+        var filter = 0.09;
+        var fps = 60;
         var difference = parseFloat(targetPosition) - parseFloat(currentPosition);
 
         // Snap, then stop if arrived.
-        var arrived = (Math.abs(difference) <= 0.5);
+        var arrived = (Math.abs(difference) <= 5);
         if (arrived)
         {
             // Apply target.
             scrollTo(0.0, targetPosition);
             return;
-        }
+        } 
 
         // Filtered position.
         currentPosition = (parseFloat(currentPosition) * (1.0 - filter)) + (parseFloat(targetPosition) * filter);
@@ -107,7 +107,7 @@ window.onload = function() {
 }
 
 function ScrollToMenu() {
-    EPPZScrollTo.scrollVerticalToElementById('language-section', 20)
+    EPPZScrollTo.scrollVerticalToElementById('language-section', 0)
 
 }
 
