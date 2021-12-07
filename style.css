@@ -26,6 +26,10 @@ body {
     padding: 0;
     padding-bottom: 20px;
     background-color: black;
+    -o-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
 }
 
 #swipe {
@@ -51,18 +55,10 @@ main {
     background-repeat: no-repeat;
     background-position-x: center;
     background-position-y: center;
-    -o-user-select: none;
-    -khtml-user-select: none;
-    -webkit-user-select: none;
-    user-select: none;
 }
 
 #animation {
     width: 35%;
-    -o-user-select: none;
-    -khtml-user-select: none;
-    -webkit-user-select: none;
-    user-select: none;
 }
 
 .lang_font {
