@@ -137,7 +137,7 @@ function loading (data) {
         menu.cost = "ЛЕЙ"
     }
     if (data == "en") {
-        menu.cost = "LEI"
+        menu.cost = "MDL"
     }
 }
 
