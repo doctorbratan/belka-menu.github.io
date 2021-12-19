@@ -121,21 +121,6 @@ const menu = {
                     positions: 
                     [
                         {
-                            en_name: "SEA BUCKTHORN TEA",
-                            ru_name: "ОБЛЕПИХОВЫЙ ЧАЙ",
-                            cost: 60
-                        },
-                        {
-                            en_name: "Berry Tea",
-                            ru_name: "Ягодный Чай",
-                            cost: 65
-                        },
-                        {
-                            en_name: "Raspberry Tea",
-                            ru_name: "Малиновый Чай",
-                            cost: 60
-                        },
-                        {
                             sub_en_name: "18+",
                             en_name: "Drunk mulled wine",
                             en_description: "( Homemade wine, Water, Orange, Apple, Lemon, Cloves, Star anise, Cinnamon, Natural honey, Cane sugar )",
@@ -150,6 +135,21 @@ const menu = {
                             ru_name: "Трезвый глинтвейн",
                             ru_description: "( Вишневый сок, Вишневый сироп, Апельсин, Яблоко, Лимон, Гвоздика, Бадьян, Корица, Мед Натуральный, Тросниковый сахар )",
                             cost: 55
+                        },
+                        {
+                            en_name: "SEA BUCKTHORN TEA",
+                            ru_name: "ОБЛЕПИХОВЫЙ ЧАЙ",
+                            cost: 60
+                        },
+                        {
+                            en_name: "Berry Tea",
+                            ru_name: "Ягодный Чай",
+                            cost: 65
+                        },
+                        {
+                            en_name: "Raspberry Tea",
+                            ru_name: "Малиновый Чай",
+                            cost: 60
                         }
                     ]
                 },
