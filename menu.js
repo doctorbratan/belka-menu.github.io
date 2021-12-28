@@ -60,7 +60,7 @@ const menu = {
                 },
                 {
                     en_title: "FRUIT BOWL:",
-                    ru_title: "ФРУКТОВЫЕ ЧАШИ:",
+                    ru_title: "ФРУКТОВЫЕ ЧАШИ :",
                     positions:
                     [
                         {
