@@ -60,7 +60,7 @@ const menu = {
                 },
                 {
                     en_title: "FRUIT BOWL:",
-                    ru_title: "ФРУКТОВЫЕ ЧАШИ :",
+                    ru_title: "ФРУКТОВЫЕ ЧАШИ:",
                     positions:
                     [
                         {
@@ -1107,44 +1107,44 @@ const menu = {
                         {
                             en_name: "EFES NON-ALCOHOLIC ",
                             ru_name: "EFES БЕЗАЛКОГОЛЬНЫЙ",
-                            cost: 26
+                            cost: 28
                         },
                         {
                             en_name: "EFES ALCOHOLIC",
                             ru_name: "EFES АЛКОГОЛЬНЫЙ",
-                            cost: 28
+                            cost: 30
                         },
                         {
                             en_name: "HOEGAARDEN",
                             ru_name: "HOEGAARDEN",
-                            cost: 36
+                            cost: 38
                         },
                         {
                             en_name: "CORONA EXTRA",
                             sub_en_name: "( lime / salt )",
                             ru_name: "CORONA EXTRA",
                             sub_ru_name: "( лайм / соль )",
-                            cost: 45
+                            cost: 46
+                        },
+                        {
+                            en_name: "GROLSCH",
+                            ru_name: "GROLSCH",
+                            cost: 50
                         },
                         {
                             en_name: "KOZEL LIGHT",
                             ru_name: "KOZEL СВЕТЛЫЙ",
-                            cost: 28
+                            cost: 30
                         },
                         {
                             en_name: "KOZEL DARK",
                             ru_name: "KOZEL ТЕМНЫЙ",
-                            cost: 28
+                            cost: 30
                         },
                         {
                             en_name: "OETINGER",
                             ru_name: "OETINGER",
-                            cost: 28
-                        },
-                        {
-                            en_name: "STARIY MELNIK",
-                            ru_name: "СТАРЫЙ МЕЛЬНИК",
-                            cost: 28
+                            cost: 30
                         }
                     ]
                 },
@@ -1152,7 +1152,12 @@ const menu = {
                     en_title: "SNACKS:",
                     ru_title: "СНЭКИ:",
                     positions:
-                    [
+                    [ 
+                        {
+                            en_name: "FRENCH FRIES",
+                            ru_name: "КАРТОФЕЛЬ ФРИ",
+                            cost: 48
+                        },
                         {
                             en_name: "PEELED NUTS",
                             ru_name: "ОРЕШКИ ОЧИЩЕННЫЕ",
