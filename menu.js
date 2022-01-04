@@ -18,21 +18,21 @@ const menu = {
                             en_description: "( SERBETLI / ADALIA )",
                             ru_name: "НОВИЧОК",
                             ru_description: "( SERBETLI / ADALIA )",
-                            cost: 120
+                            cost: 140
                         },
                         {
                             en_name: "BETTER THEN STUDENT",
                             en_description: "( THE STUDENT 50%50 PRO )",
                             ru_name: "НЕМНОГО ШАРЮ",
                             ru_description: "( НОВИЧОК 50%50 ПРОФИ )",
-                            cost: 150
+                            cost: 170
                         },
                         {
                             en_name: "PRO",
                             en_description: "( DARKSIDE / MUST HAVE / BLACK BURN )",
                             ru_name: "ПРОФИ",
                             ru_description: "( DARKSIDE / MUST HAVE / BLACK BURN )",
-                            cost: 180
+                            cost: 200
                         }
                     ]
                 },
@@ -44,17 +44,17 @@ const menu = {
                         {   
                             en_name: "THE STUDENT",
                             ru_name: "НОВИЧОК",
-                            cost: 90
+                            cost: 110
                         },
                         {
                             en_name: "BETTER THEN STUDENT",
                             ru_name: "НЕМНОГО ШАРЮ",
-                            cost: 120
+                            cost: 140
                         },
                         {
                             en_name: "PRO",
                             ru_name: "ПРОФИ",
-                            cost: 150
+                            cost: 170
                         }
                     ]
                 },
@@ -399,56 +399,56 @@ const menu = {
                             en_description: "( JAPANESE RICE , SALMON, CREAM CHEESE , CUCUMBER,  CAVIAR TOBIKO)",
                             ru_name: "КАЛИФОРНИЯ с ЛОСОСЕМ",
                             ru_description: "( ЯПОНСКИЙ РИС, НЕЖНЫЙ ЛОСОСЬ, СЛИВОЧНЫЙ СЫР, ХРУСТЯЩИЙ ОГУРЧИК, ИКРА ТОБИКО )",
-                            cost: 120
+                            cost: 125
                         },
                         {
                             en_name: "CALIFORNIA WITH TEMPURI SHRIMPS",
                             en_description: "( JAPANESE RICE, CAVIAR TOBIKO, TIGER SHRIMPS FIRED IN BATTED TEMPURI BREADED WITH DRIED PANCO, JAPANESE MAYONESIS )",
                             ru_name: "КАЛИФОРНИЯ С КРЕВЕТКАМИ ТЕМПУРИ",
                             ru_description: "( ЯПОНСКИЙ РИС, ТИГРОВЫЕ КРЕВЕТКИ ОБЖАРЕННЫЕ В КЛЯРЕ ТЕМПУРИ В ПАНИРОВКЕ ИЗ СУХАРЕЙ PANCO , ИКРА ТОБИКО, ЯПОНСКИЙ МАЙОНЕЗ )",
-                            cost: 125
+                            cost: 130
                         },
                         {
                             en_name: "PHILADELPHIA",
                             en_description: "( JAPANESE RICE , SALMON, CREAM CHEESE, CUCUMBER )",
                             ru_name: "ФИЛАДЕЛЬФИЯ",
                             ru_description: "( ЯПОНСКИЙ РИС, НЕЖНЕЙШИЙ ЛОСОСЬ, СЛИВОЧНЫЙ СЫР, ХРУСТЯЩИЙ ОГУРЧИК )",
-                            cost: 115
+                            cost: 120
                         },
                         {
                             en_name: "PHILADELPHIA WITH EEL",
                             en_description: "( JAPANESE RICE , SALMON, CREAM CHEESE, CUCUMBER, AROMATIC, SMOKED EEL) ",
                             ru_name: "ФИЛАДЕЛЬФИЯ С УГРЁМ",
                             ru_description: "( ЯПОНСКИЙ РИС, НЕЖНЕЙШИЙ ЛОСОСЬ, АРОМАТНЫЙ, КОПЧЁНЫЙ УГОРЬ, СЛИВОЧНЫЙ СЫР, ХРУСТЯЩИЙ ОГУРЧИК )",
-                            cost: 135
+                            cost: 140
                         },
                         {
                             en_name: "PHILADELPHIA WITH SHRIMPS",
                             en_description: "( JAPANESE RICE, SALMON,  CREAM CHEESE, CUCUMBERS, JAPANESE MAYONESIS )",
                             ru_name: "ФИЛАДЕЛЬФИЯ С КРЕВЕТКАМИ",
                             ru_description: "( ЯПОНСКИЙ РИС, НЕЖНЫЙ ЛОСОСЬ, СЛИВОЧНЫЙ СЫР, КРЕВЕТКИ, ЯПОНСКИЙ МАЙОНЕЗ, ОГУРЧИКИ )",
-                            cost: 145
+                            cost: 150
                         },
                         {
                             en_name: "ROLL BONITO WITH SALMON",
                             en_description: "( JAPANESE RICE, SALMON, CREAM CHEESE, CUCUMBERS, BONITO (SMOKED TUNA SHAVING) )",
                             ru_name: "РОЛЛ BONITO С ЛОСОСЕМ",
                             ru_description: "( ЯПОНСКИЙ РИС, СЛИВОЧНЫЙ СЫР, НЕЖНЫЙ ЛОСОСЬ, ОГУРЧИКИ, BONITO (КОПЧЕНАЯ СТРУЖКА ИЗ ТУНЦА) )",
-                            cost: 115
+                            cost: 120
                         },
                         {
                             en_name: "CANADA",
                             en_description: "( JAPANESE RICE, SALMON, CREAM CHEESE, CUCUMBER, SESAME, SAUCE UNAGHI, SMOKED EEL )",
                             ru_name: "КАНАДА",
                             ru_description: "( ЯПОНСКИЙ РИС, КОПЧЁНЫЙ УГОРЬ, НЕЖНЫЙ ЛОСОСЬ, СЛИВОЧНЫЙ СЫР, ОГУРЧИК, КУНЖУТ, СОУС UNAGHI )",
-                            cost: 145
+                            cost: 150
                         },
                         {
                             en_name: "ROLL SACUMIX",
                             en_description: "( JAPANESE RICE, SALMON, CREAM CHEESE, CUCUMBER, AVOCADO, TUNA)",
                             ru_name: "РОЛЛ SACUMIX",
                             ru_description: "( ЯПОНСКИЙ РИС, НЕЖНЕЙШИЙ ЛОСОСЬ, ТУНЕЦ, СЛИВОЧНЫЙ СЫР, ХРУСТЯЩИЙ ОГУРЧИК, СПЕЛОЕ АВОКАДО )",
-                            cost: 125
+                            cost: 130
                         }
                     ]
                 },
@@ -462,21 +462,21 @@ const menu = {
                             en_description: "( JAPANESE RICE, SALMON,  CREAM CHEESE, SPICE SAUCE, CLAR TEMPURI, SUHARI PANKO, UNAGI SAUCE, SESAME )",
                             ru_name: "ФУТУМАКИ С ЛОСОСЕМ",
                             ru_description: "( ЯПОНСКИЙ РИС, НЕЖНЕЙШИЙ ЛОСОСЬ, СЛИВОЧНЫЙ СЫР, СПАЙСИ СОУС, КЛЯР ТЕМПУРИ, СУХАРИ ПАНКО, СОУС УНАГИ, КУНЖУТ, ! СЛЕГКА ОСТРЫЙ РОЛЛ ! )",
-                            cost: 115
+                            cost: 120
                         },
                         {
                             en_name: "FUTUMAKI WITH SHRIMPS",
                             en_description: "( JAPANESE RICE, CREAM CHEESE, SHRIMPS, SPICE SAUCE, CLAR TEMPURI, SUHARI PANKO, UNAGI SAUCE, SESAME )",
                             ru_name: "ФУТУМАКИ С КРЕВЕТКАМИ",
                             ru_description: "( ЯПОНСКИЙ РИС, СЛИВОЧНЫЙ СЫР, КРЕВЕТКИ, СПАЙСИ СОУС, КЛЯР ТЕМПУРИ, СУХАРИ ПАНКО, СОУС УНАГИ, КУНЖУТ. ! СЛЕГКА ОСТРЫЙ РОЛЛ ! )",
-                            cost: 125
+                            cost: 130
                         },
                         {
                             en_name: "FUTUMAKI WITH EEL",
                             en_description: "( JAPANESE RICE, SMOKED EELCREAM , CREAM CHEESE, SPICE SAUCE, CLAR TEMPURI, SUHARI PANKO, UNAGI SAUCE, SESAME )",
                             ru_name: "ФУТУМАКИ С УГРЕМ",
                             ru_description: "( ЯПОНСКИЙ РИС, КОПЧЕННЫЙ УГОРЬ, СЛИВОЧНЫЙ СЫР, СПАЙСИ СОУС, КЛЯР ТЕМПУРИ, СУХАРИ ПАНКО, СОУС УНАГИ, КУНЖУТ )",
-                            cost: 125
+                            cost: 130
                         }
                     ]
                 },
@@ -490,56 +490,56 @@ const menu = {
                             en_description: "( ITALIAN  PASSENGER, TOMATO SAUCE, MOZZARELLA, CHICKEN, KABANO SAUSAGE, SHARBACK SAUCE )",
                             ru_name: "B-B-Q (БАРБЕКЮ)",
                             ru_description: "( ИТАЛЬЯНСКОЕ ВОЗДУШНОЕ ТЕСТО, СОУС ИЗ ТОМАТОВ, МОЦАРЕЛЛА, КУРИЦА, КОЛБАСКИ КАБАНОС, СОУС BBQ )",
-                            cost: 110
+                            cost: 115
                         },
                         {
                             en_name: "DEZHONSKAYA",
                             en_description: "( ITALIAN  PASSENGER, TOMATO SAUCE, MOZZARELLA, BACON, CHICKEN, CREAM CHEESE, FRENCH GRAIN MUSTARD )",
                             ru_name: "ДЕЖОНСКАЯ",
                             ru_description: "( ИТАЛЬЯНСКОЕ ВОЗДУШНОЕ ТЕСТО, СОУС ИЗ ТОМАТОВ, МОЦАРЭЛЛА, БЕКОН, КУРИЦА, СЛИВОЧНЫЙ СЫР, ФРАНЦУЗСКАЯ ЗЕРНОВАЯ ГОРЧИЦА )",
-                            cost: 120
+                            cost: 125
                         },
                         {
                             en_name: "4 MEAT",
                             en_description: "( ITALIAN  PASSENGER, TOMATO SAUCE, MOZARELLA, SWEET ONION, SMOKED SAUSAGE, BACON, PROSCIUTTO COTTO, PROSCIUTTO SPECK )",
                             ru_name: "4 МЯСА",
                             ru_description: "( ИТАЛЬЯНСКОЕ ВОЗДУШНОЕ ТЕСТО, СОУС ИЗ ТОМАТОВ, МОЦАРЭЛЛА, СЛАДКИЙ ЛУК, КОПЧЕНАЯ КОЛБАСА, БЕКОН, PROSCIUTTO COTTO, PROSCIUTTO SPECK, СЫРОКОПЧЕНЫЙ-ОКОРОК )",
-                            cost: 120
+                            cost: 125
                         },
                         {
                             en_name: "4 CHEESE",
                             en_description: "( ITALIAN  PASSION, TOMATO SAUCE, MOZZARELLA, BRIE, MOLDED CHEESE (GORGONZOLA), PARMESAN (PARMIGIANO REGGIANO) )",
                             ru_name: "4 СЫРА",
                             ru_description: "( ИТАЛЬЯНСКОЕ ВОЗДУШНОЕ ТЕСТО, СОУС ИЗ ТОМАТОВ, МОЦАРЭЛЛА, БРИ, СЫР С ПЛЕСЕНЬЮ (GORGONZOLA), ПАРМЕЗАН (PARMIGIANO REGGIANO) )",
-                            cost: 130
+                            cost: 135
                         },
                         {
                             en_name: "CAPRI",
                             en_description: "( ITALIAN  PASSENGER, TOMATO SAUCE, MOZZARELLA, BACON, GARLIC EGGPLANTS, MUSHROOMS, SWEET PEPPER, PARMIGIANO REGGIANO )",
                             ru_name: "CAPRI",
                             ru_description: "( ИТАЛЬЯНСКОЕ ВОЗДУШНОЕ ТЕСТО, СОУС ИЗ ТОМАТОВ, МОЦАРЭЛЛА, БЕКОН, ЧЕСНОЧНЫЕ БАКЛАЖАНЫ, ГРИБЫ , СЛАДКИЙ ПЕРЕЦ, ПАРМЕЗАН (PARMIGIANO REGGIANO) )",
-                            cost: 110
+                            cost: 115
                         },
                         {
                             en_name: "PEPERONI",
                             en_description: "( ITALIAN  PASSENGER, TOMATO SAUCE, MOZZARELLA, PEPERONI )",
                             ru_name: "PEPERONI",
                             ru_description: "( ИТАЛЬЯНСКОЕ ВОЗДУШНОЕ ТЕСТО, СОУС ИЗ ТОМАТОВ, МОЦАРЭЛЛА, ПЕПЕРОНИ (ОСТРЫЕ) )",
-                            cost: 110
+                            cost: 115
                         },
                         {
                             en_name: "PROSCIUTTO COTTO",
                             en_description: "( ITALIAN  PASSENGER, TOMATO SAUCE, MOZZARELLA, PEPERONI (SPICY) )",
                             ru_name: "PROSCIUTTO COTTO",
                             ru_description: "( ИТАЛЬЯНСКОЕ ВОЗДУШНОЕ ТЕСТО, СОУС ИЗ ТОМАТОВ, МОЦАРЭЛЛА, PROSCIUTTO COTTO, ГРИБЫ, МАСЛИНЫ )",
-                            cost: 105
+                            cost: 110
                         },
                         {
                             en_name: "POLLO",
                             en_description: "( ITALIAN PASSENGER, TOMATO SAUCE, MOZZARELLA, CHICKEN, MUSHROOMS )",
                             ru_name: "POLLO",
                             ru_description: "( ИТАЛЬЯНСКОЕ ВОЗДУШНОЕ ТЕСТО, СОУС ИЗ ТОМАТОВ, МОЦАРЭЛЛА, КУРИЦА, ГРИБЫ )",
-                            cost: 105
+                            cost: 110
                         }
                     ]
                 },
@@ -617,7 +617,7 @@ const menu = {
                             en_description: "( BANANA JUICE, STRAWBERRY, LEMON JUICE, COCONUT SYRUP, CARBONATION )",
                             ru_name: "ФЛАМИНГО",
                             ru_description: "( БАНАНОВЫЙ СОК, КЛУБНИКА, ЛИМОННЫЙ СОК, КОКОСОВЫЙ СИРОП, ГАЗИРОВКА )",
-                            cost: 38
+                            cost: 40
                         },
                         {
                             en_name: "MOJITO",
@@ -645,14 +645,14 @@ const menu = {
                             en_description: "( BANANA SYRUP, PINEAPPLE JUICE, SPRITE )",
                             ru_name: "КАЙФ",
                             ru_description: "( БАНАНОВЫЙ СИРОП, АНАНАСОВЫЙ СОК, СПРАЙТ )",
-                            cost: 38
+                            cost: 40
                         },
                         {
                             en_name: "HONEYMOON",
                             en_description: "( APPLE JUICE, ORANGE JUICE, STRAWBERRY JUICE )",
                             ru_name: "МЕДОВЫЙ МЕСЯЦ",
                             ru_description: "( ЯБЛОЧНЫЙ СОК, АПЕЛЬСИНОВЫЙ СОК, КЛУБНИЧНЫЙ СОК )",
-                            cost: 38
+                            cost: 40
                         }
                     ]
                 }
