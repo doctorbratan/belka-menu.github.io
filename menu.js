@@ -1127,11 +1127,6 @@ const menu = {
                             cost: 46
                         },
                         {
-                            en_name: "GROLSCH",
-                            ru_name: "GROLSCH",
-                            cost: 50
-                        },
-                        {
                             en_name: "KOZEL LIGHT",
                             ru_name: "KOZEL СВЕТЛЫЙ",
                             cost: 30
@@ -1145,6 +1140,11 @@ const menu = {
                             en_name: "OETINGER",
                             ru_name: "OETINGER",
                             cost: 30
+                        },
+                        {
+                            en_name: "FRANZISKANER",
+                            ru_name: "FRANZISKANER",
+                            cost: 50
                         }
                     ]
                 },
@@ -1156,7 +1156,12 @@ const menu = {
                         {
                             en_name: "FRENCH FRIES",
                             ru_name: "КАРТОФЕЛЬ ФРИ",
-                            cost: 50
+                            cost: 45
+                        },
+                        {
+                            en_description: "Sauce",
+                            sub_ru_name: "Соус",
+                            cost: 10
                         },
                         {
                             en_name: "PEELED NUTS",
