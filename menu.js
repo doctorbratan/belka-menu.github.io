@@ -1159,8 +1159,8 @@ const menu = {
                             cost: 45
                         },
                         {
-                            en_description: "Sauce",
-                            sub_ru_name: "Соус",
+                            en_description: "+ SAUCE [ STANDART: SWEET CHILI ]",
+                            sub_ru_name: "+ СОУС [ СТАНДАРТ: СЛАДКИЙ ЧИЛИ ]",
                             cost: 10
                         },
                         {
