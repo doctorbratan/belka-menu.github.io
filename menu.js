@@ -121,22 +121,6 @@ const menu = {
                     positions: 
                     [
                         {
-                            sub_en_name: "18+",
-                            en_name: "Drunk mulled wine",
-                            en_description: "( Homemade wine, Water, Orange, Apple, Lemon, Cloves, Star anise, Cinnamon, Natural honey, Cane sugar )",
-                            ru_name: "Пьяный Глинтвейн",
-                            ru_description: "( Вино Домашнее, Вода, Апельсин, Яблоко, Лимон, Гвоздика, Бадьян, Корица, Мёд натуральный, Тросниковый сахар )",
-                            sub_ru_name: "18+",
-                            cost: 65
-                        },
-                        {
-                            en_name: "Drunk mulled wine",
-                            en_description: "( Cherry juice, Cherry syrup, Orange, Apple, Lemon, Clove, Star anise, Cinnamon, Natural honey, Cane sugar )",
-                            ru_name: "Трезвый глинтвейн",
-                            ru_description: "( Вишневый сок, Вишневый сироп, Апельсин, Яблоко, Лимон, Гвоздика, Бадьян, Корица, Мед Натуральный, Тросниковый сахар )",
-                            cost: 55
-                        },
-                        {
                             en_name: "SEA BUCKTHORN TEA",
                             ru_name: "ОБЛЕПИХОВЫЙ ЧАЙ",
                             cost: 60
@@ -144,12 +128,7 @@ const menu = {
                         {
                             en_name: "Berry Tea",
                             ru_name: "Ягодный Чай",
-                            cost: 65
-                        },
-                        {
-                            en_name: "Raspberry Tea",
-                            ru_name: "Малиновый Чай",
-                            cost: 60
+                            cost: 68
                         }
                     ]
                 },
@@ -166,17 +145,17 @@ const menu = {
                         {
                             en_name: "AMERICANO",
                             ru_name: "АМЕРИКАНО",
-                            cost: 18
+                            cost: 20
                         },
                         {
                             en_name: "CAPPUCCINO",
                             ru_name: "КАПУЧИНО",
-                            cost: 22
+                            cost: 24
                         },
                         {
                             en_name: "LATTE",
                             ru_name: "ЛАТТЕ",
-                            cost: 24
+                            cost: 26
                         },
                         {
                             en_name: "HOT CHOCOLATE",
@@ -186,7 +165,7 @@ const menu = {
                         {
                             en_name: "RAF",
                             ru_name: "РАФ",
-                            cost: 28
+                            cost: 30
                         }
                     ]
                 },
@@ -234,14 +213,19 @@ const menu = {
                             cost: 6
                         },
                         {
-                            en_name: "LEMON / LIME",
-                            ru_name: "ЛИМОН / ЛАЙМ",
+                            en_name: "LEMON",
+                            ru_name: "ЛИМОН",
                             cost: 10
+                        },
+                        {
+                            en_name: "LIME",
+                            ru_name: "ЛАЙМ",
+                            cost: 12
                         },
                         {
                             en_name: "HONEY",
                             ru_name: "МЁД",
-                            cost: 10
+                            cost: 14
                         }
                     ]
                 },
@@ -258,17 +242,17 @@ const menu = {
                         {
                             en_name: "SET OF CROISSANTS",
                             ru_name: "НАБОР КРУАССАНОВ",
-                            cost: 40
+                            cost: 50
                         },
                         {
                             en_name: "CAKE",
                             ru_name: "КЕКС",
-                            cost: 12
+                            cost: 10
                         },
                         {
                             en_name: "CHOCOLATE",
                             ru_name: "ШОКОЛАД",
-                            cost: 35
+                            cost: 40
                         },
                         {
                             en_name: "BARS",
@@ -285,47 +269,47 @@ const menu = {
                         {
                             en_name: "FRUIT TEA",
                             ru_name: "ФРУКТОВЫЙ ЧАЙ",
-                            cost: 50
+                            cost: 55
                         },
                         {
                             en_name: "BLACK TEA",
                             ru_name: "ЧЁРНЫЙ ЧАЙ",
-                            cost: 50
+                            cost: 55
                         },
                         {
                             en_name: "BLACK TEA WITH FRUIT",
                             ru_name: "ЧЁРНЫЙ ЧАЙ С ФРУКТАМИ",
-                            cost: 50
+                            cost: 55
                         },
                         {
                             en_name: "BLACK TEA WITH BERGAMOT",
                             ru_name: "ЧЁРНЫЙ ЧАЙ С БЕРГАМОТОМ",
-                            cost: 50
+                            cost: 55
                         },
                         {
                             en_name: "GREEN TEA WITH JASMINE",
                             ru_name: "ЗЕЛЁНЫЙ ЧАЙ С ЖАСМИНОМ",
-                            cost: 50
+                            cost: 55
                         },
                         {
                             en_name: "CHINESE GREEN TEA",
                             ru_name: "КИТАЙСКИЙ ЗЕЛЁНЫЙ ЧАЙ",
-                            cost: 50
+                            cost: 55
                         },
                         {
                             en_name: "MINT TEA",
                             ru_name: "МЯТНЫЙ ЧАЙ",
-                            cost: 50
+                            cost: 55
                         },
                         {
                             en_name: "HERBAL TEA",
                             ru_name: "ТРАВЯНОЙ ЧАЙ",
-                            cost: 50
+                            cost: 55
                         },
                         {
                             en_name: "CHAMOMILE TEA",
                             ru_name: "РОМАШКОВЫЙ ЧАЙ",
-                            cost: 50
+                            cost: 55
                         }
                     ]
                 },
@@ -362,17 +346,17 @@ const menu = {
                         {
                             en_name: "ICE TEA",
                             ru_name: "ХОЛОДНЫЙ ЧАЙ",
-                            cost: 20
+                            cost: 22
                         },
                         {
                             en_name: "A BOTTLE OF JUICE",
                             ru_name: "СОК В БУТЫЛОЧКЕ ",
-                            cost: 18
+                            cost: 20
                         },
                         {
                             en_name: "JUICE",
                             ru_name: "СОК УПАКОВКА",
-                            cost: 45
+                            cost: 48
                         },
                         {
                             en_name: "WATER",
@@ -617,42 +601,42 @@ const menu = {
                             en_description: "( BANANA JUICE, STRAWBERRY, LEMON JUICE, COCONUT SYRUP, CARBONATION )",
                             ru_name: "ФЛАМИНГО",
                             ru_description: "( БАНАНОВЫЙ СОК, КЛУБНИКА, ЛИМОННЫЙ СОК, КОКОСОВЫЙ СИРОП, ГАЗИРОВКА )",
-                            cost: 40
+                            cost: 45
                         },
                         {
                             en_name: "MOJITO",
                             en_description: "( SUGAR SYRUP, SPRITE, MINT, LIME )",
                             ru_name: "МОХИТО",
                             ru_description: "( САХАРНЫЙ СИРОП, СПРАЙТ, МЯТО, ЛАЙМ )",
-                            cost: 40
+                            cost: 42
                         },
                         {
                             en_name: "COCONUT HUNTER",
                             en_description: "( LEMON JUICE, PINEAPPLE JUICE, COCONUT SYRUP, SODA, BLUE CURASAO )",
                             ru_name: "ОХОТНИК ЗА КОКОСОМ",
                             ru_description: "( ЛИМОННЫЙ СОК, АНАНАСОВЫЙ СОК, КОКОСОВЫЙ СИРОП, СОДОВАЯ, БЛЮ КЮРАСАО )",
-                            cost: 40
+                            cost: 45
                         },
                         {
                             en_name: "BLUE LAGOON",
                             en_description: "( SPRITE, LEMON, LIME, LEMON JUICE, BLUE CURASAO )",
                             ru_name: "ГОЛУБАЯ ЛАГУНА",
                             ru_description: "( СПРАЙТ, ЛИМОН, ЛАЙМ, ЛИМОННЫЙ СОК, БЛЮ КЮРАСАО )",
-                            cost: 40
+                            cost: 42
                         },
                         {
                             en_name: "CHILL",
                             en_description: "( BANANA SYRUP, PINEAPPLE JUICE, SPRITE )",
                             ru_name: "КАЙФ",
                             ru_description: "( БАНАНОВЫЙ СИРОП, АНАНАСОВЫЙ СОК, СПРАЙТ )",
-                            cost: 40
+                            cost: 45
                         },
                         {
                             en_name: "HONEYMOON",
                             en_description: "( APPLE JUICE, ORANGE JUICE, STRAWBERRY JUICE )",
                             ru_name: "МЕДОВЫЙ МЕСЯЦ",
                             ru_description: "( ЯБЛОЧНЫЙ СОК, АПЕЛЬСИНОВЫЙ СОК, КЛУБНИЧНЫЙ СОК )",
-                            cost: 40
+                            cost: 42
                         }
                     ]
                 }
@@ -681,21 +665,21 @@ const menu = {
                             en_description: "( GRENADINE, ORANGE JUICE, TEQUILA )",
                             ru_name: "Блэк энд Уайт",
                             ru_description: "( БЭЙЛИС, КОФЕЙНЫЙ ЛИКЕР, МОЛОКО, КАРАМЕЛЬНЫЙ СИРОП, ШОКОЛАДНЫЙ СИРОП )",
-                            cost: 55
+                            cost: 60
                         },
                         {
                             en_name: "Martini piano",
                             en_description: "( MARTINI, CRISECO )",
                             ru_name: "Мартини рояль",
                             ru_description: "( МАРТИНИ, КРИСЕКО )",
-                            cost: 50
+                            cost: 55
                         },
                         {
                             en_name: "St. Duma",
                             en_description: "( APEROL, GIN, GRENADINE, LEMON JUICE )",
                             ru_name: "Ул. Думская",
                             ru_description: "( АПЕРОЛЬ, ДЖИН, ГРЕНАДИН, ЛИМОННЫЙ СОК )",
-                            cost: 60
+                            cost: 55
                         },
                         {
                             en_name: "TEQUILA SUNRISE",
@@ -709,42 +693,42 @@ const menu = {
                             en_description: "( VODKA, BLUE CURASAO, LEMON JUICE, SPRITE )",
                             ru_name: "ГОЛУБАЯ ЛАГУНА",
                             ru_description: "( ВОДКА, БЛЮ КЮРАСАО, ЛИМОННЫЙ СОК, СПРАЙТ )",
-                            cost: 50
+                            cost: 52
                         },
                         {
                             en_name: "APEROL",
                             en_description: "( APEROL, PROSECCO, SODOVA, ORANGE )",
                             ru_name: "АПЕРОЛЬ",
                             ru_description: "( АПЕРОЛЬ, ПРОСЕККО, СОДОВАЯ, АПЕЛЬСИН )",
-                            cost: 55
+                            cost: 58
                         },
                         {
                             en_name: "BEACH SEX",
                             en_description: "( VODKA, PEACH LIQUOR, CRANBERRY JUICE, PINEAPPLE JUICE )",
                             ru_name: "СЕКС ЗА ПЛЯЖЕМ",
                             ru_description: "( ВОДКА, ПЕРСИКОВЫЙ ЛИКЕР, КЛЮКВЕННЫЙ СОК, АНАНАСОВЫЙ СОК )",
-                            cost: 55
+                            cost: 58
                         },
                         {
                             en_name: "WHITE RUSSIAN",
                             en_description: "( VODKA, COFFEE LIQUOR, CREAM )",
                             ru_name: "БЕЛЫЙ РУССКИЙ",
                             ru_description: "( ВОДКА, КОФЕЙНЫЙ ЛИКЕР, СЛИВКИ )",
-                            cost: 50
+                            cost: 55
                         },
                         {
                             en_name: "MOJITO",
                             en_description: "( RUM, SUGAR SYRUP, SPRITE, MINT, LIME )",
                             ru_name: "МОХИТО",
                             ru_description: "( РОМ, САХАРНЫЙ СИРОП, СПРАЙТ, МЯТА, ЛАЙМ )",
-                            cost: 50
+                            cost: 55
                         },
                         {
                             en_name: "ESPRESSO MARTINI",
                             en_description: "( ESPRESSO, VODKA, COFFEE, LIQUOR, CHOCOLATE SYRUP )",
                             ru_name: "ЭСПРЕССО МАРТИНИ",
                             ru_description: "( ЭСПРЕССО, ВОДКА, КОФЁ, ЛИКЕР, ШОКОЛАДНЫЙ СИРОП )",
-                            cost: 60
+                            cost: 55
                         },
                         {
                             en_name: "RAPHAELLO",
@@ -758,7 +742,7 @@ const menu = {
                             en_description: "( RUM, SUGAR SYRUP, LIME JUICE )",
                             ru_name: "ДАЙКИРИ",
                             ru_description: "( РОМ, САХАРНЫЙ СИРОП, СОК ЛАЙМА )",
-                            cost: 50
+                            cost: 52
                         },
                         {
                             en_name: "LONG ISLAND ICE TEA",
@@ -779,7 +763,7 @@ const menu = {
                             en_description: "( RUM, STRAWBERRY SYRUP, LIME JUICE )",
                             ru_name: "КЛУБНИЧНЫЙ ДАЙКИРИ",
                             ru_description: "( РОМ, КЛУБНИЧНЫЙ СИРОП, СОК ЛАЙМА )",
-                            cost: 50
+                            cost: 55
                         },
                         {
                             en_name: "MARGARITA",
@@ -821,21 +805,21 @@ const menu = {
                             en_description: "( GIN, ROM, BLUE CURASAO, GRENADIN, SPRITE )",
                             ru_name: "МАТРИЦА",
                             ru_description: "( ДЖИН, РОМ, БЛЮ КЮРАСАО , ГРЕНАДИН, СПРАЙТ )",
-                            cost: 65
+                            cost: 60
                         },
                         {
                             en_name: "CARIBBEAN WAVES",
                             en_description: "( RUM, PINEAPPLE JUICE, BLUE CURASAO, CREAM, COCONUT SYRUP )",
                             ru_name: "КАРИБСКИЕ ВОЛНЫ",
                             ru_description: "( РОМ, АНАНАСОВЫЙ СОК, БЛЮ КЮРАСАО, СЛИВКИ, КОКОСОВЫЙ СИРОП )",
-                            cost: 50
+                            cost: 55
                         },
                         {
                             en_name: "CUBA LIBRE",
                             en_description: "( ROM, COLA, LIME )",
                             ru_name: "КУБА ЛИБРЕ",
                             ru_description: "( РОМ, КОЛА, ЛАЙМ )",
-                            cost: 55
+                            cost: 50
                         },
                         {
                             en_name: "BOSTON TEA",
@@ -863,7 +847,7 @@ const menu = {
                             en_description: "( RUM, BANANA SYRUP, PINEAPPLE JUICE, SPRITE )",
                             ru_name: "КАЙФ",
                             ru_description: "( РОМ, БАНАНОВЫЙ СИРОП, АНАНАСОВЫЙ СОК, СПРАЙТ )",
-                            cost: 50
+                            cost: 55
                         }
                     ]
                 }
@@ -892,21 +876,21 @@ const menu = {
                             en_description: "( COFFEE LIQUOR, BEILIS, TRIPLE SEC )",
                             ru_name: "Б-53",
                             ru_description: "( КОФЕЙНЫЙ ЛИКЕР, БЕЙЛИС, ТРИПЛ СЕК )",
-                            cost: 45
+                            cost: 48
                         },
                         {
                             en_name: "BLUE LAMBORGINI",
                             en_description: "( BLUE KURASAO, LIME JUICE, TEQUILA )",
                             ru_name: "СИНИЙ ЛАМБОРГИНИ",
                             ru_description: "( БЛЮ КУРАСАО, СОК ЛАЙМА, ТЕКИЛА )",
-                            cost: 40
+                            cost: 42
                         },
                         {
                             en_name: "MOJITO",
                             en_description: "( MINT SYRUP, LIME JUICE, SPRITE, RUM )",
                             ru_name: "МОХИТО",
                             ru_description: "( МЯТНЫЙ СИРОП, СОК ЛАЙМА, СПРАЙТ, РОМ )",
-                            cost: 40
+                            cost: 42
                         },
                         {
                             en_name: "SQUIRREL",
@@ -934,35 +918,35 @@ const menu = {
                             en_description: "( MINT SYRUP, APEROL, VODKA )",
                             ru_name: "20+",
                             ru_description: "( МЯТНЫЙ СИРОП, АПЕРОЛЬ, ВОДКА )",
-                            cost: 40
+                            cost: 42
                         },
                         {
                             en_name: "SPRING BERRIES",
                             en_description: "( GRENADINE, BAILIS, GIN )",
                             ru_name: "ЕЛОВЫЕ ЯГОДЫ",
                             ru_description: "( ГРЕНАДИН, БЭЙЛИС, ДЖИН )",
-                            cost: 40
+                            cost: 42
                         },
                         {
                             en_name: "ACID",
                             en_description: "( GRENADINE, LIME JUICE, RUM )",
                             ru_name: "КИСЛОТНЫЙ",
                             ru_description: "( ГРЕНАДИН, СОК ЛАЙМА, РОМ )",
-                            cost: 40
+                            cost: 42
                         },
                         {
                             en_name: "SILVER BULLET",
                             en_description: "( COFFEE LIQUOR, LEMON, TEQUILA )",
                             ru_name: "СЕРЕБРЯНАЯ ПУЛЯ",
                             ru_description: "( КОФЕЙНЫЙ ЛИКЕР, ЛИМОН, ТЕКИЛА )",
-                            cost: 40
+                            cost: 42
                         },
                         {
                             en_name: "BOYARSKY",
                             en_description: "( GRENADINE, VODKA, TABASCO SAUCE )",
                             ru_name: "БОЯРСКИЙ",
                             ru_description: "( ГРЕНАДИН, ВОДКА, СОУС ТАБАСКО )",
-                            cost: 40
+                            cost: 42
                         },
                         {
                             en_name: "KAZANTIP",
@@ -983,7 +967,7 @@ const menu = {
                             en_description: "( GRENADINE, BAILIS, VODKA, BLUE CURASAO )",
                             ru_name: "ГАГАУЗКИЙ ФЛАГ",
                             ru_description: "( ГРЕНАДИН, БЭЙЛИС, ВОДКА, БЛЮ КЮРАСАО )",
-                            cost: 40
+                            cost: 45
                         },
                     ]
                 },
@@ -1000,14 +984,14 @@ const menu = {
                             ru_name: "ЛЕГКИЙ СЕТ",
                             sub_ru_name: "5ШТ",
                             ru_description: "( БОЯРСКИЙ, КИСЛОТНЫЙ, 20+, МОХИТО, СИНИЙ ЛАМБОРГИНИ )",
-                            cost: 170
+                            cost: 180
                         },
                         {
                             en_name: "TRY TO SURVIVE",
                             en_description: "( KAZANTIP, SQUIRREL, B-53, NAKED ON THE FLOOR, HIROSIMA )",
                             ru_name: "ПОПРОБУЙ ВЫЖИТЬ",
                             ru_description: "( КАЗАНТИП, БЕЛКА, Б-53, ГОЛЫЙ НА ПОЛУ, ХИРОСИМА )",
-                            cost: 210
+                            cost: 220
                         },
                         {
                             en_name: "HONOR OR SHAME?",
@@ -1176,7 +1160,7 @@ const menu = {
                         {
                             en_name: "PISTACHIO",
                             ru_name: "ФИСТАШКИ",
-                            cost: 40
+                            cost: 42
                         },
                         {
                             en_name: "CHIPS",
