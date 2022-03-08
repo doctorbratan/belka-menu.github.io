@@ -1140,7 +1140,7 @@ const menu = {
                         {
                             en_name: "FRENCH FRIES",
                             ru_name: "КАРТОФЕЛЬ ФРИ",
-                            cost: 45
+                            cost: 50
                         },
                         {
                             en_description: "+ SAUCE [ STANDART: SWEET CHILI ]",
