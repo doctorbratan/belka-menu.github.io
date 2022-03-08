@@ -607,7 +607,7 @@ const menu = {
                             en_name: "MOJITO",
                             en_description: "( SUGAR SYRUP, SPRITE, MINT, LIME )",
                             ru_name: "МОХИТО",
-                            ru_description: "( САХАРНЫЙ СИРОП, СПРАЙТ, МЯТО, ЛАЙМ )",
+                            ru_description: "( САХАРНЫЙ СИРОП, СПРАЙТ, МЯТА, ЛАЙМ )",
                             cost: 42
                         },
                         {
@@ -621,7 +621,7 @@ const menu = {
                             en_name: "BLUE LAGOON",
                             en_description: "( SPRITE, LEMON, LIME, LEMON JUICE, BLUE CURASAO )",
                             ru_name: "ГОЛУБАЯ ЛАГУНА",
-                            ru_description: "( СПРАЙТ, ЛИМОН, ЛАЙМ, ЛИМОННЫЙ СОК, БЛЮ КЮРАСАО )",
+                            ru_description: "( СПРАЙТ, ЛИМОН, ЛИМОННЫЙ СОК, БЛЮ КЮРАСАО )",
                             cost: 42
                         },
                         {
@@ -692,7 +692,7 @@ const menu = {
                             en_name: "BLUE LAGOON",
                             en_description: "( VODKA, BLUE CURASAO, LEMON JUICE, SPRITE )",
                             ru_name: "ГОЛУБАЯ ЛАГУНА",
-                            ru_description: "( ВОДКА, БЛЮ КЮРАСАО, ЛИМОННЫЙ СОК, СПРАЙТ )",
+                            ru_description: "( ВОДКА, БЛЮ КЮРАСАО, ЛИМОННЫЙ СОК, СПРАЙТ, ЛИМОН )",
                             cost: 52
                         },
                         {
