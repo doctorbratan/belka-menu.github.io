@@ -1186,14 +1186,14 @@ const menu = {
                             en_description: "( ORANGE, LEMON, GRAPEFRUIT )",
                             ru_name: "ЦИТРУСОВАЯ",
                             ru_description: "( АПЕЛЬСИН, ЛИМОН, ГРЕЙПФРУТ )",
-                            cost: 85
+                            cost: 70
                         },
                         {
                             en_name: "FRUIT",
                             en_description: "( BANANA, APPLE, ORANGE )",
                             ru_name: "ФРУКТОВАЯ",
                             ru_description: "( БАНАН, ЯБЛОКО, АПЕЛЬСИН )",
-                            cost: 85
+                            cost: 70
                         }
                     ]
                 }
