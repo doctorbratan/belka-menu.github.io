@@ -116,23 +116,6 @@ const menu = {
             blocks: 
             [
                 {
-                    en_title: "MOOD COLOR WINTER:",
-                    ru_title: "ЦВЕТ НАСТРОЕНИЯ ЗИМНИЙ:",
-                    positions: 
-                    [
-                        {
-                            en_name: "SEA BUCKTHORN TEA",
-                            ru_name: "ОБЛЕПИХОВЫЙ ЧАЙ",
-                            cost: 60
-                        },
-                        {
-                            en_name: "Berry Tea",
-                            ru_name: "Ягодный Чай",
-                            cost: 68
-                        }
-                    ]
-                },
-                {
                     en_title: "COFFEE:",
                     ru_title: "КОФЕ:",
                     positions: 
@@ -266,6 +249,16 @@ const menu = {
                     ru_title: "ЧАИ:",
                     positions:
                     [
+                        {
+                            en_name: "SEA BUCKTHORN TEA",
+                            ru_name: "ОБЛЕПИХОВЫЙ ЧАЙ",
+                            cost: 60
+                        },
+                        {
+                            en_name: "Berry Tea",
+                            ru_name: "Ягодный Чай",
+                            cost: 70
+                        },
                         {
                             en_name: "FRUIT TEA",
                             ru_name: "ФРУКТОВЫЙ ЧАЙ",
@@ -1052,7 +1045,7 @@ const menu = {
                         {
                             en_name: "VODKA",
                             ru_name: "ВОДКА",
-                            cost: "40/50"
+                            cost: 50
                         },
                         {
                             en_name: "ABSINTHE",
@@ -1091,7 +1084,7 @@ const menu = {
                         {
                             en_name: "EFES NON-ALCOHOLIC ",
                             ru_name: "EFES БЕЗАЛКОГОЛЬНЫЙ",
-                            cost: 28
+                            cost: 30
                         },
                         {
                             en_name: "EFES ALCOHOLIC",
