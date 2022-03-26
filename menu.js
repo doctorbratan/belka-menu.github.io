@@ -342,6 +342,11 @@ const menu = {
                             cost: 22
                         },
                         {
+                            en_name: "A GLASS OF JUICE",
+                            ru_name: "СОК В СТАКАНЕ ",
+                            cost: 18
+                        },
+                        {
                             en_name: "A BOTTLE OF JUICE",
                             ru_name: "СОК В БУТЫЛОЧКЕ ",
                             cost: 20
