@@ -549,7 +549,7 @@ const menu = {
                             en_description: "( APPLE JUICE, SUGAR SYRUP, SPRITE, LEMON JUICE, KIWI )",
                             ru_name: "СЕЙДЖ РОМАНС",
                             ru_description: "( ЯБЛОЧНЫЙ СОК, САХАРНЫЙ СИРОП, СПРАЙТ, СОК ЛИМОНА, КИВИ )",
-                            cost: 40
+                            cost: 45
                         },
                         {
                             en_name: "GREEN CITRUS",
