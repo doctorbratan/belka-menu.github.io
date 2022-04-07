@@ -1190,7 +1190,7 @@ const menu = {
                             en_name: "FRUIT",
                             en_description: "( BANANA, APPLE, ORANGE )",
                             ru_name: "ФРУКТОВАЯ",
-                            ru_description: "( БАНАН, ЯБЛОКО, АПЕЛЬСИН )",
+                            ru_description: "( БАНАН, ЯБЛОКО, АПЕЛЬСИН, КИВИ )",
                             cost: 70
                         }
                     ]
