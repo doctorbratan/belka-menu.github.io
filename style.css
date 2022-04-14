@@ -127,6 +127,15 @@ section {
     align-items: center;
 }
 
+.red {
+    color: red;
+}
+
+.delete {
+    color: red;
+    text-decoration: line-through;
+}
+
 .name {
     display: flex;
     flex-direction: column;

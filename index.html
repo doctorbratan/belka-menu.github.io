@@ -62,6 +62,7 @@
                 <span class="title-span">
                     <img  v-if="block.adult" class="adult" src="./img/18+.svg" alt="18+">
                     <h1>{{block.ru_title}}</h1>
+                    <h1 v-if="block.salle" class="red" > &nbsp;&nbsp; {{block.salle}}</h1>
                 </span>
 
                <span v-for="position in block.positions" class="column">
@@ -71,7 +72,11 @@
                             <h2>{{position.ru_name}} <small> &nbsp; {{position.sub_ru_name}}</small> </h2>
                             <small class="description">{{position.ru_description}}</small>
                         </span>
-                        <h2 v-if="position.cost">{{position.cost}} {{menu.cost}}</h2>
+                        <span>
+                            <h2 v-if="position.new_cost">{{position.new_cost}} {{menu.cost}}</h2>
+                            <h2  v-if="position.cost"  v-bind:class="{ delete: position.action }"> {{position.cost}} {{menu.cost}}</h2>
+                        </span>
+                        
                     </span>
                 </span>
 

@@ -78,32 +78,43 @@ const menu = {
                 {
                     en_title: "ADDITIVES TO FLASK",
                     ru_title: "ДОБАВКИ В КОЛБУ:",
+                    salle: "-20%",
                     positions:
                     [
                         {
                             en_name: "MILK / JUICE",
                             ru_name: "МОЛОКО / СОК",
-                            cost: 20
+                            cost: 20,
+                            action: true,
+                            new_cost: 16
                         },
                         {
                             en_name: "SYRUP",
                             ru_name: "СИРОП",
-                            cost: 20
+                            cost: 20,
+                            action: true,
+                            new_cost: 16
                         },
                         {
                             en_name: "FRUITS",
                             ru_name: "ФРУКТОВАЯ КОЛБА",
-                            cost: 35
+                            cost: 40,
+                            action: true,
+                            new_cost: 32
                         },
                         {
                             en_name: "WINE",
                             ru_name: "ВИНО",
-                            cost: 30
+                            cost: 30,
+                            action: true,
+                            new_cost: 24
                         },
                         {
                             en_name: "ABSINTHE",
                             ru_name: "АБСЕНТ",
-                            cost: 40
+                            cost: 40,
+                            action: true,
+                            new_cost: 32
                         }
                     ]
                 },
