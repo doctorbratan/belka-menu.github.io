@@ -91,9 +91,9 @@ const menu = {
                         {
                             en_name: "SYRUP",
                             ru_name: "СИРОП",
-                            cost: 20,
+                            cost: 25,
                             action: true,
-                            new_cost: 16
+                            new_cost: 20
                         },
                         {
                             en_name: "FRUITS",
