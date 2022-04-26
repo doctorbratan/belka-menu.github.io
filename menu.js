@@ -365,7 +365,7 @@ const menu = {
                         {
                             en_name: "JUICE",
                             ru_name: "СОК УПАКОВКА",
-                            cost: 48
+                            cost: 55
                         },
                         {
                             en_name: "WATER",
@@ -413,7 +413,7 @@ const menu = {
                             en_description: "( JAPANESE RICE , SALMON, CREAM CHEESE, CUCUMBER, AROMATIC, SMOKED EEL) ",
                             ru_name: "ФИЛАДЕЛЬФИЯ С УГРЁМ",
                             ru_description: "( ЯПОНСКИЙ РИС, НЕЖНЕЙШИЙ ЛОСОСЬ, АРОМАТНЫЙ, КОПЧЁНЫЙ УГОРЬ, СЛИВОЧНЫЙ СЫР, ХРУСТЯЩИЙ ОГУРЧИК )",
-                            cost: 145
+                            cost: 155
                         },
                         {
                             en_name: "PHILADELPHIA WITH SHRIMPS",
@@ -434,14 +434,14 @@ const menu = {
                             en_description: "( JAPANESE RICE, SALMON, CREAM CHEESE, CUCUMBER, SESAME, SAUCE UNAGHI, SMOKED EEL )",
                             ru_name: "КАНАДА",
                             ru_description: "( ЯПОНСКИЙ РИС, КОПЧЁНЫЙ УГОРЬ, НЕЖНЫЙ ЛОСОСЬ, СЛИВОЧНЫЙ СЫР, ОГУРЧИК, КУНЖУТ, СОУС UNAGHI )",
-                            cost: 155
+                            cost: 160
                         },
                         {
                             en_name: "ROLL SACUMIX",
                             en_description: "( JAPANESE RICE, SALMON, CREAM CHEESE, CUCUMBER, AVOCADO, TUNA)",
                             ru_name: "РОЛЛ SACUMIX",
                             ru_description: "( ЯПОНСКИЙ РИС, НЕЖНЕЙШИЙ ЛОСОСЬ, ТУНЕЦ, СЛИВОЧНЫЙ СЫР, ХРУСТЯЩИЙ ОГУРЧИК, СПЕЛОЕ АВОКАДО )",
-                            cost: 135
+                            cost: 140
                         }
                     ]
                 },
@@ -1051,12 +1051,12 @@ const menu = {
                         {
                             en_name: "EFES NON-ALCOHOLIC ",
                             ru_name: "EFES БЕЗАЛКОГОЛЬНЫЙ",
-                            cost: 30
+                            cost: 36
                         },
                         {
                             en_name: "EFES ALCOHOLIC",
                             ru_name: "EFES АЛКОГОЛЬНЫЙ",
-                            cost: 30
+                            cost: 36
                         },
                         {
                             en_name: "HOEGAARDEN",
@@ -1068,27 +1068,27 @@ const menu = {
                             sub_en_name: "( lime / salt )",
                             ru_name: "CORONA EXTRA",
                             sub_ru_name: "( лайм / соль )",
-                            cost: 48
+                            cost: 52
                         },
                         {
                             en_name: "KOZEL LIGHT",
                             ru_name: "KOZEL СВЕТЛЫЙ",
-                            cost: 30
+                            cost: 36
                         },
                         {
                             en_name: "KOZEL DARK",
                             ru_name: "KOZEL ТЕМНЫЙ",
-                            cost: 30
+                            cost: 36
                         },
                         {
                             en_name: "OETINGER",
                             ru_name: "OETINGER",
-                            cost: 30
+                            cost: 34
                         },
                         {
                             en_name: "FRANZISKANER",
                             ru_name: "FRANZISKANER",
-                            cost: 52
+                            cost: 58
                         }
                     ]
                 },
