@@ -984,6 +984,13 @@ const menu = {
                             ru_name: "ВИСКИ",
                             cost: "50/55"
                         },
+
+                        {
+                            en_name: "Jack Daniel's",
+                            ru_name: "Jack Daniel's",
+                            cost: "60"
+                        },
+
                         {
                             en_name: "BOURBON",
                             ru_name: "БУРБОН",
