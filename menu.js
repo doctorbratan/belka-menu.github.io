@@ -78,43 +78,32 @@ const menu = {
                 {
                     en_title: "ADDITIVES TO FLASK",
                     ru_title: "ДОБАВКИ В КОЛБУ:",
-                    salle: "-20%",
                     positions:
                     [
                         {
                             en_name: "MILK / JUICE",
                             ru_name: "МОЛОКО / СОК",
-                            cost: 20,
-                            action: true,
-                            new_cost: 16
+                            cost: 20
                         },
                         {
                             en_name: "SYRUP",
                             ru_name: "СИРОП",
-                            cost: 25,
-                            action: true,
-                            new_cost: 20
-                        },
-                        {
-                            en_name: "FRUITS",
-                            ru_name: "ФРУКТОВАЯ КОЛБА",
-                            cost: 40,
-                            action: true,
-                            new_cost: 32
+                            cost: 25
                         },
                         {
                             en_name: "WINE",
                             ru_name: "ВИНО",
-                            cost: 30,
-                            action: true,
-                            new_cost: 24
+                            cost: 30
+                        },
+                        {
+                            en_name: "FRUITS",
+                            ru_name: "ФРУКТОВАЯ КОЛБА",
+                            cost: 40
                         },
                         {
                             en_name: "ABSINTHE",
                             ru_name: "АБСЕНТ",
-                            cost: 40,
-                            action: true,
-                            new_cost: 32
+                            cost: 40
                         }
                     ]
                 },
@@ -383,6 +372,7 @@ const menu = {
             blocks:
             [
                 {
+                    logo: "./logos/Sushumi-Logo.svg",
                     en_title: "SUSHI:",
                     ru_title: "СУШИ:",
                     positions: 
@@ -446,6 +436,7 @@ const menu = {
                     ]
                 },
                 {
+                    logo: "./logos/Sushumi-Logo.svg",
                     en_title: "BAKED SUSHI:",
                     ru_title: "ЗАПЕЧЕННЫЕ СУШИ:",
                     positions:
@@ -474,6 +465,7 @@ const menu = {
                     ]
                 },
                 {
+                    logo: "./logos/Sushumi-Logo.svg",
                     en_title: "PIZZA:",
                     ru_title: "ПИЦЦА:",
                     positions:
@@ -536,7 +528,286 @@ const menu = {
                         }
                     ]
                 },
+                {
+                    logo: "./logos/Sushumi-Logo.svg",
+                    en_title: "Grill Menu:",
+                    ru_title: "Гриль Меню:",
+                    positions:
+                    [
+                        {
+                            en_name: "FRENCH FRIES",
+                            ru_name: "КАРТОФЕЛЬ ФРИ",
+                            cost: 50
+                        },
+                        {
+                            en_description: "+ SAUCE [  ]",
+                            sub_ru_name: "+ СОУС [ Чесночный / Чили Сладкий / Спайси ]",
+                            cost: 12
+                        },
+                        {
+                            en_description: "+ SAUCE [  ]",
+                            sub_ru_name: "+ СОУС [ Кетчуп / Майонез ]",
+                            cost: 10
+                        },
+                    ]
+                }
             ]
+        },
+        {
+            page: 11,
+            background: "",
+            blocks:
+            [
+                {
+                    logo: "./logos/ElsFastFood-Logo.svg",
+                    en_title: "",
+                    ru_title: "Фирменное: ",
+                    positions:
+                    [
+                        {
+                            en_name: "",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Цезарь Ролл",
+                            sub_ru_name: undefined,
+                            ru_description: "",
+                            cost: 59
+                        },
+                        {
+                            en_name: "",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Цезарь Ролл Black",
+                            sub_ru_name: undefined,
+                            ru_description: "",
+                            cost: 72
+                        },
+                        {
+                            en_name: "",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Бургер",
+                            sub_ru_name: undefined,
+                            ru_description: "",
+                            cost: 64
+                        },
+                        {
+                            en_name: "",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Чизбургер",
+                            sub_ru_name: undefined,
+                            ru_description: "",
+                            cost: 73
+                        },
+                        {
+                            en_name: "",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Бургер Max",
+                            sub_ru_name: undefined,
+                            ru_description: "",
+                            cost: 89
+                        },
+                        {
+                            en_name: "",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Чизбургер Max",
+                            sub_ru_name: undefined,
+                            ru_description: "",
+                            cost: 94
+                        }
+                    ]
+                },
+                {
+                    logo: "./logos/ElsFastFood-Logo.svg",
+                    en_title: "",
+                    ru_title: "Гриль Меню: ",
+                    positions: 
+                    [
+                        {
+                            en_name: "",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Картошка по-деревенски",
+                            sub_ru_name: undefined,
+                            ru_description: "",
+                            cost: 45
+                        },
+                        {
+                            en_name: "",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Картофельные Шарики",
+                            sub_ru_name: undefined,
+                            ru_description: "",
+                            cost: 52
+                        },
+                        {
+                            en_name: "",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Крылышки в панировке",
+                            sub_ru_name: "6 шт",
+                            ru_description: "",
+                            cost: 119
+                        },
+                        {
+                            en_name: "",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Наггетсы в панировке",
+                            sub_ru_name: "11 шт",
+                            ru_description: "",
+                            cost: 79
+                        },
+                        {
+                            en_name: "",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Крылышки в фирменном соусе",
+                            sub_ru_name: "9 шт",
+                            ru_description: "",
+                            cost: 119
+                        },
+                        {
+                            en_name: "",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Чесночные гренки",
+                            sub_ru_name: undefined,
+                            ru_description: "",
+                            cost: 53
+                        },
+                        {
+                            en_name: "",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Жаренные пельмени",
+                            sub_ru_name: undefined,
+                            ru_description: "",
+                            cost: 59
+                        },
+                        {
+                            en_name: "",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Клешни краба",
+                            sub_ru_name: "8 шт",
+                            ru_description: "",
+                            cost: 89
+                        },
+                        {
+                            en_name: "",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Корюшка",
+                            sub_ru_name: undefined,
+                            ru_description: "",
+                            cost: 69
+                        },
+                    ]
+                },
+                {
+                    logo: "./logos/ElsFastFood-Logo.svg",
+                    en_title: "",
+                    ru_title: "Сеты: ",
+                    positions: 
+                    [
+                        {
+                            en_name: "Combo Set Mini",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Combo Set Mini",
+                            sub_ru_name: undefined,
+                            ru_description: "",
+                            cost: 78
+                        },
+                        {
+                            en_name: "Combo Set Max",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Combo Set Max",
+                            sub_ru_name: undefined,
+                            ru_description: "",
+                            cost: 164
+                        },
+                        {
+                            en_name: "Fri Set",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Fri Set",
+                            sub_ru_name: undefined,
+                            ru_description: "",
+                            cost: 98
+                        },
+                        {
+                            en_name: "Piv Set",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Piv Set",
+                            sub_ru_name: undefined,
+                            ru_description: "",
+                            cost: 120
+                        }
+                    ]
+                },
+                {
+                    logo: "./logos/ElsFastFood-Logo.svg",
+                    en_title: "",
+                    ru_title: "Соусы: ",
+                    positions:
+                    [
+                        {
+                            en_name: "B-B-Q",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Барбекью",
+                            sub_ru_name: undefined,
+                            ru_description: "",
+                            cost: 12
+                        },
+                        {
+                            en_name: "",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Кисло-сладкий",
+                            sub_ru_name: undefined,
+                            ru_description: "",
+                            cost: 12
+                        },
+                        {
+                            en_name: "",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Чесночный",
+                            sub_ru_name: undefined,
+                            ru_description: "",
+                            cost: 12
+                        },
+                        {
+                            en_name: "",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Сырный",
+                            sub_ru_name: undefined,
+                            ru_description: "",
+                            cost: 12
+                        },
+                        {
+                            en_name: "",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Сладкий чили",
+                            sub_ru_name: undefined,
+                            ru_description: "",
+                            cost: 12
+                        }
+                    ]
+                }
+            ]
+
         },
         {
             page: 5,
@@ -564,9 +835,9 @@ const menu = {
                         },
                         {
                             en_name: "GREEN CITRUS",
-                            en_description: "( ORANGE JUICE, PINEAPPLE JUICE, LEMON JUICE, BLUE CURASAO )",
+                            en_description: "( ORANGE JUICE, PINEAPPLE JUICE, BLUE CURASAO )",
                             ru_name: "ЗЕЛЁНЫЙ ЦИТРУС",
-                            ru_description: "( АПЕЛЬСИНОВЫЙ СОК, АНАНАСОВЫЙ СОК, СОК ЛИМОНА, БЛЮ КЮРАСАО )",
+                            ru_description: "( АПЕЛЬСИНОВЫЙ СОК, АНАНАСОВЫЙ СОК, БЛЮ КЮРАСАО )",
                             cost: 40
                         },
                         {
@@ -635,9 +906,9 @@ const menu = {
                         },
                         {
                             en_name: "HONEYMOON",
-                            en_description: "( APPLE JUICE, ORANGE JUICE, STRAWBERRY JUICE )",
+                            en_description: "( APPLE JUICE, ORANGE JUICE, STRAWBERRY SYROP )",
                             ru_name: "МЕДОВЫЙ МЕСЯЦ",
-                            ru_description: "( ЯБЛОЧНЫЙ СОК, АПЕЛЬСИНОВЫЙ СОК, КЛУБНИЧНЫЙ СОК )",
+                            ru_description: "( ЯБЛОЧНЫЙ СОК, АПЕЛЬСИНОВЫЙ СОК, КЛУБНИЧНЫЙ СИРОП )",
                             cost: 42
                         }
                     ]
@@ -720,9 +991,9 @@ const menu = {
                         },
                         {
                             en_name: "LONG ISLAND ICE TEA",
-                            en_description: "( GIN, VODKA, WHITE RUM, TEQUILA, TRIPLE SEC, SUGAR SYRUP, LIME JUICE, COLA )",
+                            en_description: "( GIN, VODKA, WHITE RUM, TEQUILA, TRIPLE SEC, LIMON JUICE, COLA )",
                             ru_name: "ЛОНГ АЙЛЕНД АЙС ТИ",
-                            ru_description: "( ДЖИН, ВОДКА, БЕЛЫЙ РОМ, ТЕКИЛА, ТРИПЛ СЕК, САХАРНЫЙ СИРОП, СОК ЛАЙМА, КОЛА )",
+                            ru_description: "( ДЖИН, ВОДКА, БЕЛЫЙ РОМ, ТЕКИЛА, ТРИПЛ СЕК,  СОК ЛИМОНА, КОЛА )",
                             cost: 68
                         },
                         {
@@ -734,9 +1005,9 @@ const menu = {
                         },
                         {
                             en_name: "STRAWBERRY DAIKIRI",
-                            en_description: "( RUM, STRAWBERRY SYRUP, LIME JUICE )",
+                            en_description: "( RUM, STRAWBERRY SYRUP, LIMON JUICE )",
                             ru_name: "КЛУБНИЧНЫЙ ДАЙКИРИ",
-                            ru_description: "( РОМ, КЛУБНИЧНЫЙ СИРОП, СОК ЛАЙМА )",
+                            ru_description: "( РОМ, КЛУБНИЧНЫЙ СИРОП, СОК ЛИМОНА )",
                             cost: 55
                         },
                         {
@@ -762,9 +1033,9 @@ const menu = {
                         },
                         {
                             en_name: "GREEN WIDOW",
-                            en_description: "( RUM, ORANGE JUICE, BLUE CURASAO SYRUP )",
+                            en_description: "( RUM, ORANGE JUICE, BLUE CURASAO SYRUP, ANANAS JUICE )",
                             ru_name: "ЗЕЛЕНАЯ ВДОВА",
-                            ru_description: "( РОМ, АПЕЛЬСИНОВЫЙ СОК , СИРОП БЛЮ КЮРАСАО )",
+                            ru_description: "( РОМ, АПЕЛЬСИНОВЫЙ СОК , СИРОП БЛЮ КЮРАСАО, АНАНАСОВЫЙ СОК )",
                             cost: 52
                         },
                         {
@@ -797,9 +1068,9 @@ const menu = {
                         },
                         {
                             en_name: "BLUE MAZAFAKER",
-                            en_description: "( GIN, VODKA, WHITE RUM, TEQUILA, TRPIL SEC, SUGAR SYRUP, LIME JUICE, SPRITE, BLUE CURASAO )",
+                            en_description: "( GIN, VODKA, WHITE RUM, TEQUILA, TRPIL SEC, LIMON, SPRITE, BLUE CURASAO )",
                             ru_name: "БЛЮ МАЗАФАКЕР",
-                            ru_description: "( ДЖИН, ВОДКА, БЕЛЫЙ РОМ, ТЕКИЛА, ТРПИЛ СЕК, САХАРНЫЙ СИРОП, СОК ЛАЙМА, СПРАЙТ, БЛЮ КЮРАСАО )",
+                            ru_description: "( ДЖИН, ВОДКА, БЕЛЫЙ РОМ, ТЕКИЛА, ТРПИЛ СЕК, ЛИМОН , СПРАЙТ, БЛЮ КЮРАСАО )",
                             cost: 68
                         },
                         {
@@ -1104,21 +1375,6 @@ const menu = {
                     ru_title: "СНЭКИ:",
                     positions:
                     [ 
-                        {
-                            en_name: "FRENCH FRIES",
-                            ru_name: "КАРТОФЕЛЬ ФРИ",
-                            cost: 50
-                        },
-                        {
-                            en_description: "+ SAUCE [  ]",
-                            sub_ru_name: "+ СОУС [ Чесночный / Чили Сладкий / Спайси ]",
-                            cost: 12
-                        },
-                        {
-                            en_description: "+ SAUCE [  ]",
-                            sub_ru_name: "+ СОУС [ Кетчуп / Майонез ]",
-                            cost: 10
-                        },
                         {
                             en_name: "PEELED NUTS",
                             ru_name: "ОРЕШКИ ОЧИЩЕННЫЕ",
