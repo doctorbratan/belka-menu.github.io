@@ -682,7 +682,7 @@ const menu = {
                             ru_name: "Жаренные пельмени",
                             sub_ru_name: undefined,
                             ru_description: "[ + Чесночный соус ]",
-                            cost: 59
+                            cost: 69
                         },
                         {
                             en_name: "Crab claws",
