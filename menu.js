@@ -540,15 +540,10 @@ const menu = {
                             cost: 50
                         },
                         {
-                            en_description: "+ SAUCE [  ]",
+                            en_description: "+ SAUCE [ Garlic / Chili Sweet / Spicy ]",
                             sub_ru_name: "+ СОУС [ Чесночный / Чили Сладкий / Спайси ]",
                             cost: 12
-                        },
-                        {
-                            en_description: "+ SAUCE [  ]",
-                            sub_ru_name: "+ СОУС [ Кетчуп / Майонез ]",
-                            cost: 10
-                        },
+                        }
                     ]
                 }
             ]
@@ -560,111 +555,111 @@ const menu = {
             [
                 {
                     logo: "./logos/ElsFastFood-Logo.svg",
-                    en_title: "",
+                    en_title: "branded menu:",
                     ru_title: "Фирменное: ",
                     positions:
                     [
                         {
-                            en_name: "",
+                            en_name: "Caesar Roll",
                             sub_en_name: undefined,
-                            en_description: "",
+                            en_description: "( Lettuce, Tomatoes, Pickled onions, Rusks, 2 sauces: garlic and branded )",
                             ru_name: "Цезарь Ролл",
                             sub_ru_name: undefined,
-                            ru_description: "",
+                            ru_description: "( Лист салата, Помидоры, Маринованный лук, Сухари, 2 соуса: чесночный и фирменный )",
                             cost: 59
                         },
                         {
-                            en_name: "",
+                            en_name: "Caesar Roll Black",
                             sub_en_name: undefined,
-                            en_description: "",
+                            en_description: "( Black tortilla, Lettuce, Tomatoes, Pickled onions, Rusks, 2 sauces: garlic and branded )",
                             ru_name: "Цезарь Ролл Black",
                             sub_ru_name: undefined,
-                            ru_description: "",
+                            ru_description: "( Черная тортилия, Лист салата,  Помидоры, Маринованный лук, Сухари, 2 соуса: чесночный и фирменный )",
                             cost: 72
                         },
                         {
-                            en_name: "",
+                            en_name: "Burger",
                             sub_en_name: undefined,
-                            en_description: "",
+                            en_description: "( Lettuce, tomatoes, pickled onions and pickled cucumbers and meat special sauce )",
                             ru_name: "Бургер",
                             sub_ru_name: undefined,
-                            ru_description: "",
+                            ru_description: "( Лист салата, помидоры, маринованный лук и маринованные огурцы и мясо соус фирменный )",
                             cost: 64
                         },
                         {
-                            en_name: "",
+                            en_name: "Cheeseburger",
                             sub_en_name: undefined,
-                            en_description: "",
+                            en_description: "( Lettuce, tomatoes, pickled onions and pickled cucumbers and meat special sauce, Cheese )",
                             ru_name: "Чизбургер",
                             sub_ru_name: undefined,
-                            ru_description: "",
+                            ru_description: "( Лист салата, помидоры, маринованный лук и маринованные огурцы и мясо соус фирменный, Сыр )",
                             cost: 73
                         },
                         {
-                            en_name: "",
+                            en_name: "Burger Max",
                             sub_en_name: undefined,
-                            en_description: "",
+                            en_description: "( Burger + Double cutlet )",
                             ru_name: "Бургер Max",
                             sub_ru_name: undefined,
-                            ru_description: "",
+                            ru_description: "( Бургер + Двойная Котлета )",
                             cost: 89
                         },
                         {
-                            en_name: "",
+                            en_name: "Cheeseburger Max",
                             sub_en_name: undefined,
-                            en_description: "",
+                            en_description: "( Cheeseburger + Double cutlet + Double cheese )",
                             ru_name: "Чизбургер Max",
                             sub_ru_name: undefined,
-                            ru_description: "",
+                            ru_description: "( Чизбургер + Двойная Котлета + Больше Сыра! )",
                             cost: 94
                         }
                     ]
                 },
                 {
                     logo: "./logos/ElsFastFood-Logo.svg",
-                    en_title: "",
+                    en_title: "Grill Menu:",
                     ru_title: "Гриль Меню: ",
                     positions: 
                     [
                         {
-                            en_name: "",
+                            en_name: "Rustic potatoes",
                             sub_en_name: undefined,
-                            en_description: "",
+                            en_description: "[ + Ketchup ]",
                             ru_name: "Картошка по-деревенски",
                             sub_ru_name: undefined,
-                            ru_description: "",
+                            ru_description: "[ + Кетчуп ]",
                             cost: 45
                         },
                         {
-                            en_name: "",
+                            en_name: "Potato Balls",
                             sub_en_name: undefined,
-                            en_description: "",
+                            en_description: "[ + Ketchup ]",
                             ru_name: "Картофельные Шарики",
                             sub_ru_name: undefined,
-                            ru_description: "",
+                            ru_description: "[ + Кетчуп ]",
                             cost: 52
                         },
                         {
-                            en_name: "",
-                            sub_en_name: undefined,
-                            en_description: "",
+                            en_name: "Wings in breadcrumbs",
+                            sub_en_name: "6 pcs",
+                            en_description: "[ + Garlic Sauce & Ketchup ]",
                             ru_name: "Крылышки в панировке",
                             sub_ru_name: "6 шт",
-                            ru_description: "",
+                            ru_description: "[ + Чесночный соус & Кетчуп ]",
                             cost: 119
                         },
                         {
-                            en_name: "",
-                            sub_en_name: undefined,
-                            en_description: "",
+                            en_name: "Breaded Nuggets",
+                            sub_en_name: "11 pcs",
+                            en_description: "[ + Ketchup ]",
                             ru_name: "Наггетсы в панировке",
                             sub_ru_name: "11 шт",
-                            ru_description: "",
+                            ru_description: "[ + Кетчуп ]",
                             cost: 79
                         },
                         {
-                            en_name: "",
-                            sub_en_name: undefined,
+                            en_name: "Wings in signature sauce",
+                            sub_en_name: "9 pcs",
                             en_description: "",
                             ru_name: "Крылышки в фирменном соусе",
                             sub_ru_name: "9 шт",
@@ -672,34 +667,34 @@ const menu = {
                             cost: 119
                         },
                         {
-                            en_name: "",
+                            en_name: "Garlic Croutons",
                             sub_en_name: undefined,
-                            en_description: "",
+                            en_description: "[ + Garlic Sauce ]",
                             ru_name: "Чесночные гренки",
                             sub_ru_name: undefined,
-                            ru_description: "",
+                            ru_description: "[ + Чесночный соус ]",
                             cost: 53
                         },
                         {
-                            en_name: "",
+                            en_name: "Fried dumplings",
                             sub_en_name: undefined,
-                            en_description: "",
+                            en_description: "[ + Garlic Sauce ]",
                             ru_name: "Жаренные пельмени",
                             sub_ru_name: undefined,
-                            ru_description: "",
+                            ru_description: "[ + Чесночный соус ]",
                             cost: 59
                         },
                         {
-                            en_name: "",
-                            sub_en_name: undefined,
-                            en_description: "",
+                            en_name: "Crab claws",
+                            sub_en_name: "8 pcs",
+                            en_description: "[ + Garlic Sauce ]",
                             ru_name: "Клешни краба",
                             sub_ru_name: "8 шт",
-                            ru_description: "",
+                            ru_description: "[ + Чесночный соус ]",
                             cost: 89
                         },
                         {
-                            en_name: "",
+                            en_name: "Smelt",
                             sub_en_name: undefined,
                             en_description: "",
                             ru_name: "Корюшка",
@@ -711,51 +706,51 @@ const menu = {
                 },
                 {
                     logo: "./logos/ElsFastFood-Logo.svg",
-                    en_title: "",
+                    en_title: "Sets:",
                     ru_title: "Сеты: ",
                     positions: 
                     [
                         {
                             en_name: "Combo Set Mini",
                             sub_en_name: undefined,
-                            en_description: "",
+                            en_description: "( 2 wings, 2 strips, 4 nuggets + spicy sauce & ketchup )",
                             ru_name: "Combo Set Mini",
                             sub_ru_name: undefined,
-                            ru_description: "",
+                            ru_description: "( 2 крылышка, 2 стрипса, 4 наггетса + пикантный соус & кетчуп )",
                             cost: 78
                         },
                         {
                             en_name: "Combo Set Max",
                             sub_en_name: undefined,
-                            en_description: "",
+                            en_description: "( 4 wings, 6 strips, 8 nuggets + spicy sauce & garlic sauce & ketchup )",
                             ru_name: "Combo Set Max",
                             sub_ru_name: undefined,
-                            ru_description: "",
+                            ru_description: "( 4 крылышка, 6 стрипсов, 8 наггетсов + пикантный соус & чесночный соус & кетчуп )",
                             cost: 164
                         },
                         {
                             en_name: "Fri Set",
                             sub_en_name: undefined,
-                            en_description: "",
+                            en_description: "( rustic potatoes, french fries, potato balls + spicy sauce & garlic sauce & ketchup )",
                             ru_name: "Fri Set",
                             sub_ru_name: undefined,
-                            ru_description: "",
+                            ru_description: "( по-деревенски, фри, шарики + пикантный соус & чесночный соус & кетчуп ) ",
                             cost: 98
                         },
                         {
                             en_name: "Piv Set",
                             sub_en_name: undefined,
-                            en_description: "",
+                            en_description: "( fried dumplings, smelt, garlic croutons + spicy sauce & garlic sauce & ketchup )",
                             ru_name: "Piv Set",
                             sub_ru_name: undefined,
-                            ru_description: "",
+                            ru_description: "( жаренные пельмени, корюшка, чесночные гренки + пикантный соус & чесночный соус & кетчуп ) ",
                             cost: 120
                         }
                     ]
                 },
                 {
                     logo: "./logos/ElsFastFood-Logo.svg",
-                    en_title: "",
+                    en_title: "Sauces: ",
                     ru_title: "Соусы: ",
                     positions:
                     [
@@ -769,7 +764,7 @@ const menu = {
                             cost: 12
                         },
                         {
-                            en_name: "",
+                            en_name: "Sweet and sour",
                             sub_en_name: undefined,
                             en_description: "",
                             ru_name: "Кисло-сладкий",
@@ -778,7 +773,7 @@ const menu = {
                             cost: 12
                         },
                         {
-                            en_name: "",
+                            en_name: "garlic",
                             sub_en_name: undefined,
                             en_description: "",
                             ru_name: "Чесночный",
@@ -787,7 +782,7 @@ const menu = {
                             cost: 12
                         },
                         {
-                            en_name: "",
+                            en_name: "Cheese",
                             sub_en_name: undefined,
                             en_description: "",
                             ru_name: "Сырный",
@@ -796,7 +791,7 @@ const menu = {
                             cost: 12
                         },
                         {
-                            en_name: "",
+                            en_name: "Sweet chili",
                             sub_en_name: undefined,
                             en_description: "",
                             ru_name: "Сладкий чили",
