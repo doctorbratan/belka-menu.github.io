@@ -540,8 +540,17 @@ const menu = {
                             cost: 50
                         },
                         {
+                            en_name: "",
+                            sub_en_name: undefined,
+                            en_description: "+ SAUCE [ Ketchup / Mayonnaise ]",
+                            ru_name: "",
+                            sub_ru_name: undefined,
+                            ru_description: "+Соус [ Кетчуп / Майонез ] ",
+                            cost: 10
+                        },
+                        {
                             en_description: "+ SAUCE [ Garlic / Chili Sweet / Spicy ]",
-                            sub_ru_name: "+ СОУС [ Чесночный / Чили Сладкий / Спайси ]",
+                            ru_description: "+ СОУС [ Чесночный / Чили Сладкий / Спайси ]",
                             cost: 12
                         }
                     ]
@@ -754,6 +763,15 @@ const menu = {
                     ru_title: "Соусы: ",
                     positions:
                     [
+                        {
+                            en_name: "Ketchup / Mayonnaise",
+                            sub_en_name: undefined,
+                            en_description: "",
+                            ru_name: "Кетчуп / Майонез",
+                            sub_ru_name: undefined,
+                            ru_description: "",
+                            cost: 10
+                        },
                         {
                             en_name: "B-B-Q",
                             sub_en_name: undefined,
