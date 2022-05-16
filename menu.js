@@ -382,7 +382,7 @@ const menu = {
                             en_description: "( JAPANESE RICE , SALMON, CREAM CHEESE , CUCUMBER,  CAVIAR TOBIKO)",
                             ru_name: "КАЛИФОРНИЯ с ЛОСОСЕМ",
                             ru_description: "( ЯПОНСКИЙ РИС, НЕЖНЫЙ ЛОСОСЬ, СЛИВОЧНЫЙ СЫР, ХРУСТЯЩИЙ ОГУРЧИК, ИКРА ТОБИКО )",
-                            cost: 130
+                            cost: 140
                         },
                         {
                             en_name: "CALIFORNIA WITH TEMPURI SHRIMPS",
@@ -396,21 +396,21 @@ const menu = {
                             en_description: "( JAPANESE RICE , SALMON, CREAM CHEESE, CUCUMBER )",
                             ru_name: "ФИЛАДЕЛЬФИЯ",
                             ru_description: "( ЯПОНСКИЙ РИС, НЕЖНЕЙШИЙ ЛОСОСЬ, СЛИВОЧНЫЙ СЫР, ХРУСТЯЩИЙ ОГУРЧИК )",
-                            cost: 125
+                            cost: 130
                         },
                         {
                             en_name: "PHILADELPHIA WITH EEL",
                             en_description: "( JAPANESE RICE , SALMON, CREAM CHEESE, CUCUMBER, AROMATIC, SMOKED EEL) ",
                             ru_name: "ФИЛАДЕЛЬФИЯ С УГРЁМ",
                             ru_description: "( ЯПОНСКИЙ РИС, НЕЖНЕЙШИЙ ЛОСОСЬ, АРОМАТНЫЙ, КОПЧЁНЫЙ УГОРЬ, СЛИВОЧНЫЙ СЫР, ХРУСТЯЩИЙ ОГУРЧИК )",
-                            cost: 155
+                            cost: 165
                         },
                         {
                             en_name: "PHILADELPHIA WITH SHRIMPS",
                             en_description: "( JAPANESE RICE, SALMON,  CREAM CHEESE, CUCUMBERS, JAPANESE MAYONESIS )",
                             ru_name: "ФИЛАДЕЛЬФИЯ С КРЕВЕТКАМИ",
                             ru_description: "( ЯПОНСКИЙ РИС, НЕЖНЫЙ ЛОСОСЬ, СЛИВОЧНЫЙ СЫР, КРЕВЕТКИ, ЯПОНСКИЙ МАЙОНЕЗ, ОГУРЧИКИ )",
-                            cost: 155
+                            cost: 160
                         },
                         {
                             en_name: "ROLL BONITO WITH SALMON",
@@ -424,7 +424,7 @@ const menu = {
                             en_description: "( JAPANESE RICE, SALMON, CREAM CHEESE, CUCUMBER, SESAME, SAUCE UNAGHI, SMOKED EEL )",
                             ru_name: "КАНАДА",
                             ru_description: "( ЯПОНСКИЙ РИС, КОПЧЁНЫЙ УГОРЬ, НЕЖНЫЙ ЛОСОСЬ, СЛИВОЧНЫЙ СЫР, ОГУРЧИК, КУНЖУТ, СОУС UNAGHI )",
-                            cost: 160
+                            cost: 165
                         },
                         {
                             en_name: "ROLL SACUMIX",
@@ -475,21 +475,21 @@ const menu = {
                             en_description: "( ITALIAN  PASSENGER, TOMATO SAUCE, MOZZARELLA, CHICKEN, KABANO SAUSAGE, SHARBACK SAUCE )",
                             ru_name: "B-B-Q (БАРБЕКЮ)",
                             ru_description: "( ИТАЛЬЯНСКОЕ ВОЗДУШНОЕ ТЕСТО, СОУС ИЗ ТОМАТОВ, МОЦАРЕЛЛА, КУРИЦА, КОЛБАСКИ КАБАНОС, СОУС BBQ )",
-                            cost: 125
+                            cost: 130
                         },
                         {
                             en_name: "DEZHONSKAYA",
                             en_description: "( ITALIAN  PASSENGER, TOMATO SAUCE, MOZZARELLA, BACON, CHICKEN, CREAM CHEESE, FRENCH GRAIN MUSTARD )",
                             ru_name: "ДЕЖОНСКАЯ",
                             ru_description: "( ИТАЛЬЯНСКОЕ ВОЗДУШНОЕ ТЕСТО, СОУС ИЗ ТОМАТОВ, МОЦАРЭЛЛА, БЕКОН, КУРИЦА, СЛИВОЧНЫЙ СЫР, ФРАНЦУЗСКАЯ ЗЕРНОВАЯ ГОРЧИЦА )",
-                            cost: 132
+                            cost: 138
                         },
                         {
                             en_name: "4 MEAT",
                             en_description: "( ITALIAN  PASSENGER, TOMATO SAUCE, MOZARELLA, SWEET ONION, SMOKED SAUSAGE, BACON, PROSCIUTTO COTTO, PROSCIUTTO SPECK )",
                             ru_name: "4 МЯСА",
                             ru_description: "( ИТАЛЬЯНСКОЕ ВОЗДУШНОЕ ТЕСТО, СОУС ИЗ ТОМАТОВ, МОЦАРЭЛЛА, СЛАДКИЙ ЛУК, КОПЧЕНАЯ КОЛБАСА, БЕКОН, PROSCIUTTO COTTO, PROSCIUTTO SPECK, СЫРОКОПЧЕНЫЙ-ОКОРОК )",
-                            cost: 135
+                            cost: 145
                         },
                         {
                             en_name: "4 CHEESE",
@@ -503,28 +503,28 @@ const menu = {
                             en_description: "( ITALIAN  PASSENGER, TOMATO SAUCE, MOZZARELLA, BACON, GARLIC EGGPLANTS, MUSHROOMS, SWEET PEPPER, PARMIGIANO REGGIANO )",
                             ru_name: "CAPRI",
                             ru_description: "( ИТАЛЬЯНСКОЕ ВОЗДУШНОЕ ТЕСТО, СОУС ИЗ ТОМАТОВ, МОЦАРЭЛЛА, БЕКОН, ЧЕСНОЧНЫЕ БАКЛАЖАНЫ, ГРИБЫ , СЛАДКИЙ ПЕРЕЦ, ПАРМЕЗАН (PARMIGIANO REGGIANO) )",
-                            cost: 125
+                            cost: 130
                         },
                         {
                             en_name: "PEPERONI",
                             en_description: "( ITALIAN  PASSENGER, TOMATO SAUCE, MOZZARELLA, PEPERONI )",
                             ru_name: "PEPERONI",
                             ru_description: "( ИТАЛЬЯНСКОЕ ВОЗДУШНОЕ ТЕСТО, СОУС ИЗ ТОМАТОВ, МОЦАРЭЛЛА, ПЕПЕРОНИ (ОСТРЫЕ) )",
-                            cost: 120
+                            cost: 125
                         },
                         {
                             en_name: "PROSCIUTTO COTTO",
                             en_description: "( ITALIAN  PASSENGER, TOMATO SAUCE, MOZZARELLA, PEPERONI (SPICY) )",
                             ru_name: "PROSCIUTTO COTTO",
                             ru_description: "( ИТАЛЬЯНСКОЕ ВОЗДУШНОЕ ТЕСТО, СОУС ИЗ ТОМАТОВ, МОЦАРЭЛЛА, PROSCIUTTO COTTO, ГРИБЫ, МАСЛИНЫ )",
-                            cost: 115
+                            cost: 120
                         },
                         {
                             en_name: "POLLO",
                             en_description: "( ITALIAN PASSENGER, TOMATO SAUCE, MOZZARELLA, CHICKEN, MUSHROOMS )",
                             ru_name: "POLLO",
                             ru_description: "( ИТАЛЬЯНСКОЕ ВОЗДУШНОЕ ТЕСТО, СОУС ИЗ ТОМАТОВ, МОЦАРЭЛЛА, КУРИЦА, ГРИБЫ )",
-                            cost: 115
+                            cost: 120
                         }
                     ]
                 },
