@@ -319,7 +319,7 @@ const menu = {
                         {
                             en_name: "COLA IN GLASS",
                             ru_name: "КОЛА СТЕКЛО",
-                            cost: 22
+                            cost: 24
                         },
                         {
                             en_name: "FANTA",
@@ -339,7 +339,7 @@ const menu = {
                         {
                             en_name: "ICE TEA",
                             ru_name: "ХОЛОДНЫЙ ЧАЙ",
-                            cost: 22
+                            cost: 24
                         },
                         {
                             en_name: "A GLASS OF JUICE",
@@ -360,7 +360,7 @@ const menu = {
                             en_name: "WATER",
                             en_description: "( SPARKLING OM )",
                             ru_name: "ОМ",
-                            cost: 15
+                            cost: 16
                         }
                     ]
                 }
@@ -1352,13 +1352,13 @@ const menu = {
                         {
                             en_name: "HOEGAARDEN",
                             ru_name: "HOEGAARDEN",
-                            cost: 42
+                            cost: 48
                         },
                         {
                             en_name: "CORONA EXTRA",
-                            sub_en_name: "( lime / salt )",
+                            sub_en_name: "( lime )",
                             ru_name: "CORONA EXTRA",
-                            sub_ru_name: "( лайм / соль )",
+                            sub_ru_name: "( лайм )",
                             cost: 52
                         },
                         {
