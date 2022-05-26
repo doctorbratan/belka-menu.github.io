@@ -18,21 +18,21 @@ const menu = {
                             en_description: "( SERBETLI / ADALIA )",
                             ru_name: "НОВИЧОК",
                             ru_description: "( SERBETLI / ADALIA )",
-                            cost: 140
+                            cost: 150
                         },
                         {
                             en_name: "BETTER THEN STUDENT",
                             en_description: "( THE STUDENT 50%50 PRO )",
                             ru_name: "НЕМНОГО ШАРЮ",
                             ru_description: "( НОВИЧОК 50%50 ПРОФИ )",
-                            cost: 170
+                            cost: 180
                         },
                         {
                             en_name: "PRO",
                             en_description: "( DARKSIDE / MUST HAVE / BLACK BURN )",
                             ru_name: "ПРОФИ",
                             ru_description: "( DARKSIDE / MUST HAVE / BLACK BURN )",
-                            cost: 200
+                            cost: 220
                         }
                     ]
                 },
@@ -44,17 +44,17 @@ const menu = {
                         {   
                             en_name: "THE STUDENT",
                             ru_name: "НОВИЧОК",
-                            cost: 110
+                            cost: 120
                         },
                         {
                             en_name: "BETTER THEN STUDENT",
                             ru_name: "НЕМНОГО ШАРЮ",
-                            cost: 140
+                            cost: 150
                         },
                         {
                             en_name: "PRO",
                             ru_name: "ПРОФИ",
-                            cost: 170
+                            cost: 190
                         }
                     ]
                 },
