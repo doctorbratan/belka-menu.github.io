@@ -250,16 +250,6 @@ const menu = {
                     positions:
                     [
                         {
-                            en_name: "SEA BUCKTHORN TEA",
-                            ru_name: "ОБЛЕПИХОВЫЙ ЧАЙ",
-                            cost: 60
-                        },
-                        {
-                            en_name: "Berry Tea",
-                            ru_name: "Ягодный Чай",
-                            cost: 70
-                        },
-                        {
                             en_name: "FRUIT TEA",
                             ru_name: "ФРУКТОВЫЙ ЧАЙ",
                             cost: 55
