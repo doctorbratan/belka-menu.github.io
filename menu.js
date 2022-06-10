@@ -252,47 +252,47 @@ const menu = {
                         {
                             en_name: "FRUIT TEA",
                             ru_name: "ФРУКТОВЫЙ ЧАЙ",
-                            cost: 55
+                            cost: 60
                         },
                         {
                             en_name: "BLACK TEA",
                             ru_name: "ЧЁРНЫЙ ЧАЙ",
-                            cost: 55
+                            cost: 60
                         },
                         {
                             en_name: "BLACK TEA WITH FRUIT",
                             ru_name: "ЧЁРНЫЙ ЧАЙ С ФРУКТАМИ",
-                            cost: 55
+                            cost: 60
                         },
                         {
                             en_name: "BLACK TEA WITH BERGAMOT",
                             ru_name: "ЧЁРНЫЙ ЧАЙ С БЕРГАМОТОМ",
-                            cost: 55
+                            cost: 60
                         },
                         {
                             en_name: "GREEN TEA WITH JASMINE",
                             ru_name: "ЗЕЛЁНЫЙ ЧАЙ С ЖАСМИНОМ",
-                            cost: 55
+                            cost: 60
                         },
                         {
                             en_name: "CHINESE GREEN TEA",
                             ru_name: "КИТАЙСКИЙ ЗЕЛЁНЫЙ ЧАЙ",
-                            cost: 55
+                            cost: 60
                         },
                         {
                             en_name: "MINT TEA",
                             ru_name: "МЯТНЫЙ ЧАЙ",
-                            cost: 55
+                            cost: 60
                         },
                         {
                             en_name: "HERBAL TEA",
                             ru_name: "ТРАВЯНОЙ ЧАЙ",
-                            cost: 55
+                            cost: 60
                         },
                         {
                             en_name: "CHAMOMILE TEA",
                             ru_name: "РОМАШКОВЫЙ ЧАЙ",
-                            cost: 55
+                            cost: 60
                         }
                     ]
                 },
@@ -934,7 +934,7 @@ const menu = {
                             en_description: "( GRENADINE, ORANGE JUICE, TEQUILA )",
                             ru_name: "Блэк энд Уайт",
                             ru_description: "( БЭЙЛИС, КОФЕЙНЫЙ ЛИКЕР, МОЛОКО, КАРАМЕЛЬНЫЙ СИРОП, ШОКОЛАДНЫЙ СИРОП )",
-                            cost: 60
+                            cost: 65
                         },
                         {
                             en_name: "Martini piano",
