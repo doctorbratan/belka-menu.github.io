@@ -15,9 +15,9 @@ const menu = {
                     [
                         {
                             en_name: "THE STUDENT",
-                            en_description: "( SERBETLI / ADALIA )",
+                            en_description: "( ELEMENT )",
                             ru_name: "НОВИЧОК",
-                            ru_description: "( SERBETLI / ADALIA )",
+                            ru_description: "( ELEMENT )",
                             cost: 150
                         },
                         {
