@@ -368,6 +368,13 @@ const menu = {
                     positions: 
                     [
                         {
+                            en_name: "Red Dragon",
+                            en_description: "( JAPANESE RICE, SALMON, CREAM CHEESE, CUCUMBER, AVOCADO, TUNA )",
+                            ru_name: "Красный Дракон",
+                            ru_description: "( ЯПОНСКИЙ РИС, Нежный Лосось, Креветки темпури, Сливочный сыр, Огурец, Соус Спайси )",
+                            cost: 160
+                        },
+                        {
                             en_name: "CALIFORNIA WITH SALMON",
                             en_description: "( JAPANESE RICE , SALMON, CREAM CHEESE , CUCUMBER,  CAVIAR TOBIKO)",
                             ru_name: "КАЛИФОРНИЯ с ЛОСОСЕМ",
@@ -375,11 +382,11 @@ const menu = {
                             cost: 140
                         },
                         {
-                            en_name: "CALIFORNIA WITH TEMPURI SHRIMPS",
-                            en_description: "( JAPANESE RICE, CAVIAR TOBIKO, TIGER SHRIMPS FIRED IN BATTED TEMPURI BREADED WITH DRIED PANCO, JAPANESE MAYONESIS )",
-                            ru_name: "КАЛИФОРНИЯ С КРЕВЕТКАМИ ТЕМПУРИ",
-                            ru_description: "( ЯПОНСКИЙ РИС, ТИГРОВЫЕ КРЕВЕТКИ ОБЖАРЕННЫЕ В КЛЯРЕ ТЕМПУРИ В ПАНИРОВКЕ ИЗ СУХАРЕЙ PANCO , ИКРА ТОБИКО, ЯПОНСКИЙ МАЙОНЕЗ )",
-                            cost: 135
+                            en_name: "CALIFORNIA WITH SHRIMPS",
+                            en_description: "( JAPANESE RICE, Shrimps, Crispy cucumber, Tobiko caviar, Cream cheese )",
+                            ru_name: "КАЛИФОРНИЯ С КРЕВЕТКАМИ",
+                            ru_description: "( ЯПОНСКИЙ РИС, Креветки, Хрустящий огурчик, Икра Тобико, Сливочный сыр )",
+                            cost: 130
                         },
                         {
                             en_name: "PHILADELPHIA",
@@ -489,11 +496,11 @@ const menu = {
                             cost: 140
                         },
                         {
-                            en_name: "CAPRI",
-                            en_description: "( ITALIAN  PASSENGER, TOMATO SAUCE, MOZZARELLA, BACON, GARLIC EGGPLANTS, MUSHROOMS, SWEET PEPPER, PARMIGIANO REGGIANO )",
-                            ru_name: "CAPRI",
-                            ru_description: "( ИТАЛЬЯНСКОЕ ВОЗДУШНОЕ ТЕСТО, СОУС ИЗ ТОМАТОВ, МОЦАРЭЛЛА, БЕКОН, ЧЕСНОЧНЫЕ БАКЛАЖАНЫ, ГРИБЫ , СЛАДКИЙ ПЕРЕЦ, ПАРМЕЗАН (PARMIGIANO REGGIANO) )",
-                            cost: 130
+                            en_name: "Tonno",
+                            en_description: "( ITALIAN Puffed Dough, TOMATO SAUCE, MOZZARELLA, Tuna, Olives, Red Onion )",
+                            ru_name: "Tonno",
+                            ru_description: "( ИТАЛЬЯНСКОЕ ВОЗДУШНОЕ ТЕСТО, СОУС ИЗ ТОМАТОВ, МОЦАРЭЛЛА, Тунец, Оливки, Красный лук )",
+                            cost: 140
                         },
                         {
                             en_name: "PEPERONI",
@@ -515,6 +522,28 @@ const menu = {
                             ru_name: "POLLO",
                             ru_description: "( ИТАЛЬЯНСКОЕ ВОЗДУШНОЕ ТЕСТО, СОУС ИЗ ТОМАТОВ, МОЦАРЭЛЛА, КУРИЦА, ГРИБЫ )",
                             cost: 120
+                        }
+                    ]
+                },
+                {
+                    logo: "./logos/Sushumi-Logo.svg",
+                    en_title: "WOK:",
+                    ru_title: "WOK:",
+                    positions:
+                    [
+                        {
+                            en_name: "Udon",
+                            en_description: "( Chicken with Vegetables / Sweet Chilie )",
+                            ru_name: "Удон",
+                            ru_description: "( Курица с Овощами / Sweet Chilie )",
+                            cost: 90
+                        },
+                        {
+                            en_name: "Soba",
+                            en_description: "( Chicken with Vegetables / Sweet Chilie )",
+                            ru_name: "Соба",
+                            ru_description: "( Курица с Овощами / Sweet Chilie )",
+                            cost: 90
                         }
                     ]
                 },
@@ -887,6 +916,13 @@ const menu = {
                             cost: 45
                         },
                         {
+                            en_name: "Strawberry MOJITO",
+                            en_description: "( Strawberry, SUGAR SYRUP, SPRITE, MINT, LIME )",
+                            ru_name: "Клубничный МОХИТО",
+                            ru_description: "( Клубника, САХАРНЫЙ СИРОП, СПРАЙТ, МЯТА, ЛАЙМ )",
+                            cost: 45
+                        },
+                        {
                             en_name: "COCONUT HUNTER",
                             en_description: "( LEMON JUICE, PINEAPPLE JUICE, COCONUT SYRUP, SODA, BLUE CURASAO )",
                             ru_name: "ОХОТНИК ЗА КОКОСОМ",
@@ -913,6 +949,13 @@ const menu = {
                             ru_name: "МЕДОВЫЙ МЕСЯЦ",
                             ru_description: "( ЯБЛОЧНЫЙ СОК, АПЕЛЬСИНОВЫЙ СОК, КЛУБНИЧНЫЙ СИРОП )",
                             cost: 42
+                        },
+                        {
+                            en_name: "Pina Colada",
+                            en_description: "( Pineapple Juice, Cream, Coconut Syrup, Vanilla Syrup )",
+                            ru_name: "Пина Колада",
+                            ru_description: "( Ананасовый сок, Сливки, Кокосовый сироп, Ванильный сироп )",
+                            cost: 45
                         }
                     ]
                 }
@@ -929,6 +972,27 @@ const menu = {
                     ru_title: "КОКТЕЙЛИ АЛКОГОЛЬНЫЕ:",
                     positions:
                     [
+                        {
+                            en_name: "Black and White",
+                            en_description: "( Crissecco, Orange juice, Sugar syrup, Orange, )",
+                            ru_name: "Мимоза",
+                            ru_description: "( Crissecco, Апельсиновый сок, Сахарный сипроп, Апельсин )",
+                            cost: 52
+                        },
+                        {
+                            en_name: "Wunch punch",
+                            en_description: "( Lacrima Dulce, Sugar Syrup, Strawberry )",
+                            ru_name: "Вунш пунш",
+                            ru_description: "( Lacrima Dulce, Сахарный сироп, Клубника )",
+                            cost: 55
+                        },
+                        {
+                            en_name: "Cherry Bomb",
+                            en_description: "( Jagermeister, Cherry Syrup, Grenadine, Energy Drink, Orange )",
+                            ru_name: "Черри бомб",
+                            ru_description: "( Ягермейстер, Вишневый сироп, Гренадин, Энергетик, Апельсин )",
+                            cost: 60
+                        },
                         {
                             en_name: "Black and White",
                             en_description: "( GRENADINE, ORANGE JUICE, TEQUILA )",
