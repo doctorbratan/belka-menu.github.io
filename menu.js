@@ -980,13 +980,6 @@ const menu = {
                             cost: 52
                         },
                         {
-                            en_name: "Wunch punch",
-                            en_description: "( Lacrima Dulce, Sugar Syrup, Strawberry )",
-                            ru_name: "Вунш пунш",
-                            ru_description: "( Lacrima Dulce, Сахарный сироп, Клубника )",
-                            cost: 55
-                        },
-                        {
                             en_name: "Cherry Bomb",
                             en_description: "( Jagermeister, Cherry Syrup, Grenadine, Energy Drink, Orange )",
                             ru_name: "Черри бомб",
